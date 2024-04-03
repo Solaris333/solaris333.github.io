@@ -26,7 +26,7 @@ class Utils {
      */
     static getCustomIcon(icon_id = undefined, icon_mode = undefined) {
         var background_path = icon_mode ? `images/icons/marker_${icon_mode}.svg` : "common/icons/marker.svg";
-
+        
         if (!icon_id) {
             return L.divIcon({
                 className: 'map-marker',

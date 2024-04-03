@@ -88,6 +88,17 @@ var police = {
                 "type": "Point",
                 "coordinates": [86.73828125,-70.01171875]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "Mission Row Police Department",
+                "name": "Mission Row Police Department"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [126.2109375,-192.7890625]
+            }
         }
     ]
 };

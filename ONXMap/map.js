@@ -30,17 +30,17 @@ var interactive_map = new InteractiveMap('map', {
 interactive_map.addTileLayer('Atlus', {
     minNativeZoom: 0,
     maxNativeZoom: 8,
-    attribution: 'Map from <a href="https://www.example.com/index.html">$source</a>'
+    attribution: 'Map from <a href="https://gtaforums.com/topic/595113-high-resolution-maps-satellite-roadmap-atlas/">AUS-damox</a>'
 }, url = `map_tiles_atlus/{z}/{x}/{y}.png`);
 interactive_map.addTileLayer('Roadmap', {
     minNativeZoom: 0,
     maxNativeZoom: 8,
-    attribution: 'Map from <a href="https://www.example.com/index.html">$source</a>'
+    attribution: 'Map from <a href="https://gtaforums.com/topic/595113-high-resolution-maps-satellite-roadmap-atlas/">AUS-damox</a>'
 }, url = `map_tiles_roadmap/{z}/{x}/{y}.png`);
 interactive_map.addTileLayer('Satellite', {
     minNativeZoom: 0,
     maxNativeZoom: 8,
-    attribution: 'Map from <a href="https://www.example.com/index.html">$source</a>'
+    attribution: 'Map from <a href="https://gtaforums.com/topic/595113-high-resolution-maps-satellite-roadmap-atlas/">AUS-damox</a>'
 }, url = `map_tiles_satellite/{z}/{x}/{y}.png`);
 
 // Step 2.5 (optional):
@@ -66,6 +66,11 @@ interactive_map.addTileLayer('Satellite', {
 
 addMedical(interactive_map);
 addPolice(interactive_map);
+addGovernment(interactive_map);
+addFood(interactive_map);
+addFire(interactive_map);
+addRepair(interactive_map);
+addTow(interactive_map);
 
 // Step 4:
 // Finalize the map after adding all layers.

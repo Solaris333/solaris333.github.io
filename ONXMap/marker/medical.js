@@ -15,8 +15,8 @@ var medical = {
         {
             "type": "Feature",
             "properties": {
-                "id": "Sandy Shores Hospital",
-                "name": "Sandy Shores Hospital"
+                "id": "Sandy Shores Medical Center & Animal Hospital",
+                "name": "Sandy Shores Medical Center & Animal Hospital"
             },
             "geometry": {
                 "type": "Point",

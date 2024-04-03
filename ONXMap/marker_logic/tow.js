@@ -2,13 +2,13 @@
 // Shows polygons and marker with overlapping IDs
 // The geoJSON contains 5 features which combine logically by 3 IDs
 
-function addMedical(map) {
+function addTow(map) {
 
     // New layer with id `collectibles` from geoJSON `collectibles`
-    let layer = map.addInteractiveLayer('medical', medical, {
+    let layer = map.addInteractiveLayer('tow', tow, {
 
         // The display name for this layer
-        name: 'Medical',
+        name: 'Tow',
 
         // This layer should have a tab in the sidebar with a list for each feature ID
         create_checkbox: true,
@@ -98,7 +98,7 @@ function addMedical(map) {
         // * We're omitting the `pointToLayer` so `images/icons/${this.id}.png` will be used for marker
         // * We're omitting the `feature_group` so markers will cluster with other layers
 
-        sidebar_icon_html: '<i class="fas fa-hospital"></i>',
+        sidebar_icon_html: '<i class="fas fa-truck-pickup"></i>',
         
         pointToLayer: function (feature, latlng) {
 
@@ -111,7 +111,7 @@ function addMedical(map) {
                 // * the group id (`this.id`) to take the `images/icons/${this.id}.png`
                 // * a max 2 char long string
                 // * nothing for a generic marker
-                icon: Utils.getCustomIcon('fa-hospital', 'red'),
+                icon: Utils.getCustomIcon('fa-truck-pickup', 'grey'),
                 riseOnHover: true
             });
         }

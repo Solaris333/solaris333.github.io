@@ -74,6 +74,8 @@ addTow(interactive_map);
 addHousing(interactive_map);
 addGas(interactive_map);
 addClubs(interactive_map);
+addClothing(interactive_map);
+addGun(interactive_map);
 
 // Step 4:
 // Finalize the map after adding all layers.

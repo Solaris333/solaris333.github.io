@@ -27,11 +27,21 @@ var interactive_map = new InteractiveMap('map', {
 // generate them from an image with (don't forget do adjust the zoom levels `-z`):
 // https://github.com/commenthol/gdal2tiles-leaflet
 // `./gdal2tiles.py -l -p raster -w none -z 3-5 full_map.jpg map_tiles`
-interactive_map.addTileLayer('Ingame map', {
-    minNativeZoom: 2,
-    maxNativeZoom: 4,
+interactive_map.addTileLayer('Atlus', {
+    minNativeZoom: 0,
+    maxNativeZoom: 8,
     attribution: 'Map from <a href="https://www.example.com/index.html">$source</a>'
-});
+}, url = `map_tiles_atlus/{z}/{x}/{y}.png`);
+interactive_map.addTileLayer('Roadmap', {
+    minNativeZoom: 0,
+    maxNativeZoom: 8,
+    attribution: 'Map from <a href="https://www.example.com/index.html">$source</a>'
+}, url = `map_tiles_roadmap/{z}/{x}/{y}.png`);
+interactive_map.addTileLayer('Satellite', {
+    minNativeZoom: 0,
+    maxNativeZoom: 8,
+    attribution: 'Map from <a href="https://www.example.com/index.html">$source</a>'
+}, url = `map_tiles_satellite/{z}/{x}/{y}.png`);
 
 // Step 2.5 (optional):
 // Add more tile layer
@@ -45,12 +55,17 @@ interactive_map.addTileLayer('Ingame map', {
 // Add at least one marker layer
 // The order matters - they will appear in this order in the sidebar and layer control
 // See `marker_logic/collectibles.js` for a really basic layer
-addCollectibles(interactive_map);
+
+//addCollectibles(interactive_map);
 
 // Step 3.5 (optional):
 // Add more marker layer
 // See `marker_logic/information.js` for more advanced technics
-addInformation(interactive_map);
+
+//addInformation(interactive_map);
+
+addMedical(interactive_map);
+addPolice(interactive_map);
 
 // Step 4:
 // Finalize the map after adding all layers.

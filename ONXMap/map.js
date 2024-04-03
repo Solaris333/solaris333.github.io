@@ -71,6 +71,9 @@ addFood(interactive_map);
 addFire(interactive_map);
 addRepair(interactive_map);
 addTow(interactive_map);
+addHousing(interactive_map);
+addGas(interactive_map);
+addClubs(interactive_map);
 
 // Step 4:
 // Finalize the map after adding all layers.

@@ -22,6 +22,6 @@ var medical = {
                 "type": "Point",
                 "coordinates": [151.65625,-97.265625]
             }
-        }
+        },
     ]
 };

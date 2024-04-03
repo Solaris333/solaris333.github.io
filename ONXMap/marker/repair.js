@@ -78,5 +78,16 @@ var repair = {
                 "coordinates": [134.1015625,-213.02734375]
             }
         },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "Benny's Original Motor Works",
+                "name": "Benny's Original Motor Works"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [113.2421875,-199.6953125]
+            }
+        },
     ]
 };

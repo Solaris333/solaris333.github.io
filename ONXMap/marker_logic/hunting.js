@@ -2,13 +2,13 @@
 // Shows polygons and marker with overlapping IDs
 // The geoJSON contains 5 features which combine logically by 3 IDs
 
-function addClothing(map) {
+function addHunting(map) {
 
     // New layer with id `collectibles` from geoJSON `collectibles`
-    let layer = map.addInteractiveLayer('clothing', clothing, {
+    let layer = map.addInteractiveLayer('hunting', hunting, {
 
         // The display name for this layer
-        name: 'Fashion',
+        name: 'Hunting',
 
         // This layer should have a tab in the sidebar with a list for each feature ID
         create_checkbox: true,
@@ -66,7 +66,7 @@ function addClothing(map) {
         // https://leafletjs.com/reference.html#path-option
         polygon_style: function (feature) {
             return {
-                color: 'red',
+                color: 'blue',
                 opacity: 0.2
             };
         },
@@ -79,7 +79,7 @@ function addClothing(map) {
             return {
                 color: 'blue',
                 opacity: 0.5,
-                fillColor: 'red',
+                fillColor: 'blue',
                 fillOpacity: 0.2
             };
         },
@@ -98,7 +98,7 @@ function addClothing(map) {
         // * We're omitting the `pointToLayer` so `images/icons/${this.id}.png` will be used for marker
         // * We're omitting the `feature_group` so markers will cluster with other layers
 
-        sidebar_icon_html: '<i class="fas fa-shirt"></i>',
+        sidebar_icon_html: '<i class="fas fa-person-rifle"></i>',
         
         pointToLayer: function (feature, latlng) {
 
@@ -111,7 +111,7 @@ function addClothing(map) {
                 // * the group id (`this.id`) to take the `images/icons/${this.id}.png`
                 // * a max 2 char long string
                 // * nothing for a generic marker
-                icon: Utils.getCustomIcon(feature.icon ? feature.icon : 'fa-shirt', 'blue'),
+                icon: Utils.getCustomIcon('fa-person-rifle', 'brown'),
                 riseOnHover: true
             });
         }

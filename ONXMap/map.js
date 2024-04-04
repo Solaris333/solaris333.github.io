@@ -75,6 +75,7 @@ addStores(interactive_map);
 addJobs(interactive_map);
 addBanks(interactive_map);
 addHunting(interactive_map);
+addFarming(interactive_map);
 
 // Step 4:
 // Finalize the map after adding all layers.

@@ -99,6 +99,17 @@ var police = {
                 "type": "Point",
                 "coordinates": [126.2109375,-192.7890625]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "Davis Police Department",
+                "name": "Davis Police Department"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [125.234375,-205.359375]
+            }
         }
     ]
 };

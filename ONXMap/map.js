@@ -29,12 +29,12 @@ var interactive_map = new InteractiveMap('map', {
 // `./gdal2tiles.py -l -p raster -w none -z 3-5 full_map.jpg map_tiles`
 interactive_map.addTileLayer('Atlus', {
     minNativeZoom: 2,
-    maxNativeZoom: 4,
+    maxNativeZoom: 5,
     attribution: 'Map from <a href="https://gtaforums.com/topic/595113-high-resolution-maps-satellite-roadmap-atlas/">AUS-damox</a>'
 }, url = `map_tiles_atlus_names/{z}/{x}/{y}.png`);
 interactive_map.addTileLayer('Satellite', {
     minNativeZoom: 2,
-    maxNativeZoom: 4,
+    maxNativeZoom: 5,
     attribution: 'Map from <a href="https://gtaforums.com/topic/595113-high-resolution-maps-satellite-roadmap-atlas/">AUS-damox</a>'
 }, url = `map_tiles_satellite_names/{z}/{x}/{y}.png`);
 

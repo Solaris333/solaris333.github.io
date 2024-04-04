@@ -75,7 +75,7 @@ var repair = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [134.1015625,-213.02734375]
+                "coordinates": [133.86328125,-216.39453125]
             }
         },
         {

@@ -2,13 +2,13 @@
 // Shows polygons and marker with overlapping IDs
 // The geoJSON contains 5 features which combine logically by 3 IDs
 
-function addHunting(map) {
+function addRestricted(map) {
 
     // New layer with id `collectibles` from geoJSON `collectibles`
-    let layer = map.addInteractiveLayer('hunting', hunting, {
+    let layer = map.addInteractiveLayer('restricted', restricted, {
 
         // The display name for this layer
-        name: 'Hunting',
+        name: 'Restricted',
 
         // This layer should have a tab in the sidebar with a list for each feature ID
         create_checkbox: true,
@@ -66,7 +66,7 @@ function addHunting(map) {
         // https://leafletjs.com/reference.html#path-option
         polygon_style: function (feature) {
             return {
-                color: feature.fillColor ? feature.fillColor : 'blue',
+                color: 'red',
                 opacity: 0.2
             };
         },
@@ -77,10 +77,10 @@ function addHunting(map) {
         // https://leafletjs.com/reference.html#path-option
         polygon_style_highlight: function (feature) {
             return {
-                color: feature.fillColor ? feature.fillColor : 'blue',
+                color: 'red',
                 opacity: 0.5,
-                fillColor: feature.fillColor ? feature.fillColor : 'blue',
-                fillOpacity: 0.2
+                fillColor: 'red',
+                fillOpacity: 0.5
             };
         },
 

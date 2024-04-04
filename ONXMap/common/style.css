@@ -107,6 +107,7 @@ html, body, #map {
 /* || Place icons in the middle of the marker */
 
 .map-marker-foreground {
+    color: #eaeaea;
     width: 15px !important;
     display: table-cell;
     vertical-align: bottom;

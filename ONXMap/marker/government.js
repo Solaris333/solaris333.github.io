@@ -34,5 +34,16 @@ var government = {
                 "coordinates": [119.484375,-188.09375]
             }
         },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "Humane Labs",
+                "name": "Humane Labs"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [190.1875,-95.875]
+            }
+        },
     ]
 };

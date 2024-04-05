@@ -79,6 +79,7 @@ addFarming(interactive_map);
 addReserve(interactive_map);
 addLandmarks(interactive_map);
 addCitylimits(interactive_map);
+addGarage(interactive_map);
 
 // Step 4:
 // Finalize the map after adding all layers.

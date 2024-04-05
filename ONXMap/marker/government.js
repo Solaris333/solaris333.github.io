@@ -37,12 +37,34 @@ var government = {
         {
             "type": "Feature",
             "properties": {
+                "id": "International Affairs Agency",
+                "name": "International Affairs Agency"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [120.5,-186.25]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "id": "Humane Labs",
                 "name": "Humane Labs"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [190.1875,-95.875]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "Los Santos International Airport",
+                "name": "Los Santos International Airport"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [95.90625,-229.05725024483706]
             }
         },
     ]

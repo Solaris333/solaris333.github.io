@@ -18,7 +18,7 @@ function addCollectibles(map) {
         create_feature_popup: true,
 
         // This layer should be visible by default
-        is_default: true,
+        is_default: false,
 
         // We don't have created a custom icon so let's use a generic one from Font Awesome
         // Omitting this uses the group icon in `images/icons/${this.id}.png` by default

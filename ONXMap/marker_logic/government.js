@@ -98,7 +98,7 @@ function addGovernment(map) {
         // * We're omitting the `pointToLayer` so `images/icons/${this.id}.png` will be used for marker
         // * We're omitting the `feature_group` so markers will cluster with other layers
 
-        sidebar_icon_html: '<i class="fas fa-landmark"></i>',
+        sidebar_icon_html: '<i class="fas fa-landmark-flag"></i>',
         
         pointToLayer: function (feature, latlng) {
 
@@ -111,7 +111,7 @@ function addGovernment(map) {
                 // * the group id (`this.id`) to take the `images/icons/${this.id}.png`
                 // * a max 2 char long string
                 // * nothing for a generic marker
-                icon: Utils.getCustomIcon('fa-landmark', 'navy'),
+                icon: Utils.getCustomIcon('fa-landmark-flag', 'navy'),
                 riseOnHover: true
             });
         }

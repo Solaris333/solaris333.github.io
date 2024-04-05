@@ -1,79 +1,89 @@
-var jobs = {
+var garage = {
     "type": "FeatureCollection",
     "features": [
         {
             "type": "Feature",
-            "icon": "fa-trash",
             "properties": {
-                "id": "Sanitation & Recycling",
-                "name": "Sanitation & Recycling"
+                "id": "Red Garage",
+                "name": "Red Garage"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    110.546875,
-                    -204.195312
+                    110.640625,
+                    -188.605139
                 ]
             }
         },
         {
             "type": "Feature",
-            "icon": "fa-truck-pickup",
             "properties": {
-                "id": "State Impound",
-                "name": "State Impound"
+                "id": "Colorful Garage",
+                "name": "Colorful Garage"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    125.683594,
-                    -206.4375
+                    92.046875,
+                    -185.933886
                 ]
             }
         },
         {
             "type": "Feature",
-            "icon": "fa-taxi",
             "properties": {
-                "id": "Taxi Rental",
-                "name": "Taxi Rental"
+                "id": "Davis Parking  Garage",
+                "name": "Davis Parking  Garage"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    110.117188,
-                    -177.382812
+                    124.75,
+                    -207.600868
                 ]
             }
         },
         {
             "type": "Feature",
-            "icon": "fa-taxi",
             "properties": {
-                "id": "Taxi Dispatch",
-                "name": "Taxi Dispatch"
+                "id": "White Garage",
+                "name": "White Garage"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    106.492188,
-                    -176.398437
+                    107.78125,
+                    -188.495229
                 ]
             }
         },
         {
             "type": "Feature",
-            "icon": "fa-truck-front",
             "properties": {
-                "id": "Delivery Depot",
-                "name": "Delivery Depot"
+                "id": "Brown Garage",
+                "name": "Brown Garage"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    134.84375,-212.59115726377667
+                    102.8125,
+                    -188.245343
                 ]
             }
-        }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "Richman Parking Garage",
+                "name": "Richman Parking Garage"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.9375,
+                    -177.000657
+                ]
+            }
+        },
     ]
 };

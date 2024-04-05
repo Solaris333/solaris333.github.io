@@ -44,17 +44,6 @@ var clubs = {
                 "type": "Point",
                 "coordinates": [105.80078125,-167.1328125]
             }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "id": "The Governer's Mansion",
-                "name": "The Governer's Mansion"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [86.109375,-170.375]
-            }
-        },
+        }
     ]
 };

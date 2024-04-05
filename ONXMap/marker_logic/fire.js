@@ -19,7 +19,7 @@ function addFire(map) {
         create_feature_popup: true,
 
         // This layer should be visible by default
-        is_default: true,
+        is_default: false,
 
         // Let's do something on every feature
         // https://leafletjs.com/reference.html#geojson-oneachfeature

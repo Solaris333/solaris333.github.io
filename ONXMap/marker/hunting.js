@@ -4,6 +4,17 @@ var hunting = {
         {
             "type": "Feature",
             "properties": {
+                "id": "Hunting Supply",
+                "name": "Hunting Supply"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [129.0625,-116.65625]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "id": "Chilliad & Josiah Hunting Zone",
                 "name": "Chilliad & Josiah Hunting Zone"
             },

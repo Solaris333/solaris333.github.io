@@ -2,13 +2,13 @@
 // Shows polygons and marker with overlapping IDs
 // The geoJSON contains 5 features which combine logically by 3 IDs
 
-function addRestricted(map) {
+function addCitylimits(map) {
 
     // New layer with id `collectibles` from geoJSON `collectibles`
-    let layer = map.addInteractiveLayer('restricted', restricted, {
+    let layer = map.addInteractiveLayer('citylimits', citylimits, {
 
         // The display name for this layer
-        name: 'Restricted',
+        name: 'City Limits',
 
         // This layer should have a tab in the sidebar with a list for each feature ID
         create_checkbox: true,
@@ -66,8 +66,8 @@ function addRestricted(map) {
         // https://leafletjs.com/reference.html#path-option
         polygon_style: function (feature) {
             return {
-                color: 'red',
-                opacity: 0.2
+                color: feature.fillColor ? feature.fillColor : 'yellow',
+                opacity: 0.05
             };
         },
 
@@ -77,10 +77,10 @@ function addRestricted(map) {
         // https://leafletjs.com/reference.html#path-option
         polygon_style_highlight: function (feature) {
             return {
-                color: 'red',
+                color: feature.fillColor ? feature.fillColor : 'yellow',
                 opacity: 0.5,
-                fillColor: 'red',
-                fillOpacity: 0.5
+                fillColor: feature.fillColor ? feature.fillColor : 'yellow',
+                fillOpacity: 0.05
             };
         },
 
@@ -98,7 +98,7 @@ function addRestricted(map) {
         // * We're omitting the `pointToLayer` so `images/icons/${this.id}.png` will be used for marker
         // * We're omitting the `feature_group` so markers will cluster with other layers
 
-        sidebar_icon_html: '<i class="fas fa-person-rifle"></i>',
+        sidebar_icon_html: '<i class="fas fa-city"></i>',
         
         pointToLayer: function (feature, latlng) {
 
@@ -111,7 +111,7 @@ function addRestricted(map) {
                 // * the group id (`this.id`) to take the `images/icons/${this.id}.png`
                 // * a max 2 char long string
                 // * nothing for a generic marker
-                icon: Utils.getCustomIcon('fa-person-rifle', 'brown'),
+                icon: Utils.getCustomIcon('fa-city', 'brown'),
                 riseOnHover: true
             });
         }

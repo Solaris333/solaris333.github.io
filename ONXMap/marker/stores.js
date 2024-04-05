@@ -120,6 +120,34 @@ var stores = {
                     -208.703125
                 ]
             }
-        }
+        },
+        {
+            "type": "Feature",
+            "icon": "fa-bicycle",
+           "properties": {
+                "id": "Mr. Spoke Bicycles",
+                "name": "Mr. Spoke Bicycles"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.54296875,-197.95703125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "icon": "fa-car",
+           "properties": {
+                "id": "Premium Deluxe Motorsport Dealership & Rentals",
+                "name": "Premium Deluxe Motorsport Dealership & Rentals"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.3722751398978,-195.60085047308834
+                ]
+            }
+        },
     ]
 };

@@ -33,6 +33,20 @@ var fire = {
                 "type": "Point",
                 "coordinates": [169.3515625,-85.9296875]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "Davis Fire Department",
+                "name": "Davis Fire Department"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.671875,
+                    -206.529543
+                ]
+            }
         }
     ]
 };

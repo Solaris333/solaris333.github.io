@@ -4,12 +4,23 @@ var repair = {
         {
             "type": "Feature",
             "properties": {
-                "id": "BlackBird Customs",
-                "name": "BlackBird Customs"
+                "id": "BlackBird Customs: Paleto Bay",
+                "name": "BlackBird Customs: Paleto Bay"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [118.7890625,-35.59765625]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "BlackBird Customs: Rockford Hills",
+                "name": "BlackBird Customs: Rockford Hills"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [110.078125,-175.828125]
             }
         },
         {
@@ -76,6 +87,17 @@ var repair = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [133.86328125,-216.39453125]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "Archer Auto",
+                "name": "Archer Auto"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [127.5,-200.078125]
             }
         },
         {

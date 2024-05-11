@@ -47,7 +47,7 @@ function getPopupMedia(feature, layer_id) {
 
         // Add a class to our image. `popup-media` will get a size change listener to readjust
         // the popup location
-        image.className = 'popup-media';
+        //image.className = 'popup-media';
 
         // Add the image that should be displayed to the image element
         image.src = `${feature.properties.external_id}`;

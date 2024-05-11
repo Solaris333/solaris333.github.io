@@ -50,6 +50,7 @@ function getPopupMedia(feature, layer_id) {
         //image.className = 'popup-media';
 
         // Add the image that should be displayed to the image element
+        image.width = "60"
         image.src = `${feature.properties.external_id}`;
 
         // Add the image inside the image link so clicking on the image will open the image in big

@@ -446,10 +446,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 151.4765625,-73.15625 ]
             }
         },
         {
@@ -457,16 +454,13 @@ var phones = {
             "properties": {
                 "id": "3108063286",
                 "name": "(310) 806-3286",
-                "external_id": "https://i.imgur.com/5EhxTxL.png",
-                "image_link": "https://i.imgur.com/5EhxTxL.png",
+                "external_id": "https://i.imgur.com/ftrPDqx.jpeg",
+                "image_link": "https://i.imgur.com/ftrPDqx.jpeg",
                 "description": "Grapeseed Main St., Grapeseed"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 151.6171875,-72.859375 ]
             }
         },
         {
@@ -474,16 +468,13 @@ var phones = {
             "properties": {
                 "id": "3107745690",
                 "name": "(310) 774-5690",
-                "external_id": "https://i.imgur.com/5EhxTxL.png",
-                "image_link": "https://i.imgur.com/5EhxTxL.png",
+                "external_id": "https://i.imgur.com/ftrPDqx.jpeg",
+                "image_link": "https://i.imgur.com/ftrPDqx.jpeg",
                 "description": "Grapeseed Main St., Grapeseed"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 151.6171875,-72.859375 ]
             }
         },
         {
@@ -497,10 +488,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 152.359375,-74.0390625 ]
             }
         },
         {
@@ -514,10 +502,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 159.234375,-72.6171875 ]
             }
         },
         {
@@ -531,10 +516,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 161,-74.359375 ]
             }
         },
         {
@@ -548,10 +530,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 152.09375,-40.234375 ]
             }
         },
         {
@@ -565,10 +544,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 115.45226615826326,-39.52273771008457 ]
             }
         },
         {
@@ -582,10 +558,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 115.45226615826326,-39.52273771008457 ]
             }
         },
         {
@@ -599,10 +572,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 114.76476615826326,-43.17898771008457 ]
             }
         },
         {
@@ -616,10 +586,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 113.65539115826326,-42.27273771008457 ]
             }
         },
         {
@@ -633,10 +600,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 113.65539115826326,-42.27273771008457 ]
             }
         },
         {
@@ -650,10 +614,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 111.63976615826326,-44.50711271008457 ]
             }
         },
         {
@@ -667,10 +628,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 108.84289115826326,-47.64773771008457 ]
             }
         },
         {
@@ -684,10 +642,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 108.84289115826326,-47.64773771008457 ]
             }
         },
         {
@@ -701,10 +656,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 110.99914115826326,-44.94461271008457 ]
             }
         },
         {
@@ -718,10 +670,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 102.046875,-57.890625 ]
             }
         },
         {
@@ -735,10 +684,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 102.046875,-57.890625 ]
             }
         },
         {
@@ -752,10 +698,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 101.703125,-57.71875 ]
             }
         },
         {
@@ -769,10 +712,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 101.703125,-57.71875 ]
             }
         },
         {
@@ -786,10 +726,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 127.75,-57.265625 ]
             }
         },
         {
@@ -803,10 +740,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 86.5703125,-70.140625 ]
             }
         },
         {
@@ -820,10 +754,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 71.875,-84.625 ]
             }
         },
         {
@@ -837,10 +768,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 71.875,-84.625 ]
             }
         },
         {
@@ -854,10 +782,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 64.6015625,-124.67578125 ]
             }
         },
         {
@@ -871,10 +796,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 64.6015625,-124.67578125 ]
             }
         },
         {
@@ -888,10 +810,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 56.30078125,-164.4453125 ]
             }
         },
         {
@@ -905,10 +824,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 54.87500010602887,-160.37499996390505 ]
             }
         },
         {
@@ -922,10 +838,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 74.09651590733066,-179.18203044016732 ]
             }
         },
         {
@@ -939,10 +852,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 86.078125,-191.984375 ]
             }
         },
         {
@@ -956,10 +866,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 85.671875,-191.15625 ]
             }
         },
         {
@@ -973,10 +880,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 85.671875,-191.15625 ]
             }
         },
         {
@@ -990,10 +894,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 83.953125,-193.359375 ]
             }
         },
         {
@@ -1007,10 +908,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 84,-193.484375 ]
             }
         },
         {
@@ -1024,10 +922,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 85.0625,-191.671875 ]
             }
         },
         {
@@ -1041,10 +936,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 85.0625,-191.671875 ]
             }
         },
         {
@@ -1058,10 +950,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 85.59375,-182.234375 ]
             }
         },
         {
@@ -1075,10 +964,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 85.59375,-181.578125 ]
             }
         },
         {
@@ -1092,10 +978,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 85.59375,-181.578125 ]
             }
         },
         {
@@ -1109,10 +992,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 86.03125,-181.109375 ]
             }
         },
         {
@@ -1126,10 +1006,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 85.71875,-183.53125 ]
             }
         },
         {
@@ -1143,10 +1020,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 87.078125,-187.125 ]
             }
         },
         {
@@ -1160,10 +1034,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 87.078125,-187.125 ]
             }
         },
         {
@@ -1177,10 +1048,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 89.734375,-186.328125 ]
             }
         },
         {
@@ -1194,10 +1062,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 89.734375,-186.328125 ]
             }
         },
         {
@@ -1211,10 +1076,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 89.296875,-188.953125 ]
             }
         },
         {
@@ -1228,10 +1090,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 89.296875,-188.953125 ]
             }
         },
         {
@@ -1245,10 +1104,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 93.84375,-187.546875 ]
             }
         },
         {
@@ -1256,16 +1112,13 @@ var phones = {
             "properties": {
                 "id": "4241572210",
                 "name": "(424) 157-2210",
-                "external_id": "https://i.imgur.com/vfFwyyj.png",
-                "image_link": "https://i.imgur.com/vfFwyyj.png",
+                "external_id": "https://i.imgur.com/KPGiwsc.png",
+                "image_link": "https://i.imgur.com/KPGiwsc.png",
                 "description": "Del Perro Metro Station, Del Perro"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 89.640625,-183.21875 ]
             }
         },
         {
@@ -1273,16 +1126,13 @@ var phones = {
             "properties": {
                 "id": "4243143980",
                 "name": "(424) 314-3980",
-                "external_id": "https://i.imgur.com/vfFwyyj.png",
-                "image_link": "https://i.imgur.com/vfFwyyj.png",
+                "external_id": "https://i.imgur.com/KPGiwsc.png",
+                "image_link": "https://i.imgur.com/KPGiwsc.png",
                 "description": "Del Perro Metro Station, Del Perro"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 89.640625,-183.21875 ]
             }
         },
         {
@@ -1290,16 +1140,13 @@ var phones = {
             "properties": {
                 "id": "4245506488",
                 "name": "(424) 550-6488",
-                "external_id": "https://i.imgur.com/vfFwyyj.png",
-                "image_link": "https://i.imgur.com/vfFwyyj.png",
+                "external_id": "https://i.imgur.com/KPGiwsc.png",
+                "image_link": "https://i.imgur.com/KPGiwsc.png",
                 "description": "Del Perro Metro Station, Del Perro"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 89.640625,-183.21875 ]
             }
         },
         {
@@ -1307,16 +1154,13 @@ var phones = {
             "properties": {
                 "id": "3109855720",
                 "name": "(310) 985-5720",
-                "external_id": "https://i.imgur.com/vfFwyyj.png",
-                "image_link": "https://i.imgur.com/vfFwyyj.png",
+                "external_id": "https://i.imgur.com/KPGiwsc.png",
+                "image_link": "https://i.imgur.com/KPGiwsc.png",
                 "description": "Del Perro Metro Station, Del Perro"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 89.640625,-183.21875 ]
             }
         },
         {
@@ -1324,16 +1168,13 @@ var phones = {
             "properties": {
                 "id": "4246136332",
                 "name": "(424) 613-6332",
-                "external_id": "https://i.imgur.com/vfFwyyj.png",
-                "image_link": "https://i.imgur.com/vfFwyyj.png",
+                "external_id": "https://i.imgur.com/KPGiwsc.png",
+                "image_link": "https://i.imgur.com/KPGiwsc.png",
                 "description": "Del Perro Metro Station, Del Perro"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 89.640625,-183.21875 ]
             }
         },
         {
@@ -1341,16 +1182,13 @@ var phones = {
             "properties": {
                 "id": "3103725898",
                 "name": "(310) 372-5898",
-                "external_id": "https://i.imgur.com/vfFwyyj.png",
-                "image_link": "https://i.imgur.com/vfFwyyj.png",
+                "external_id": "https://i.imgur.com/KPGiwsc.png",
+                "image_link": "https://i.imgur.com/KPGiwsc.png",
                 "description": "Del Perro Metro Station, Del Perro"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 89.640625,-183.21875 ]
             }
         },
         {
@@ -1358,16 +1196,13 @@ var phones = {
             "properties": {
                 "id": "3101628417",
                 "name": "(310) 162-8417",
-                "external_id": "https://i.imgur.com/yAOQ0zQ.png",
-                "image_link": "https://i.imgur.com/yAOQ0zQ.png",
+                "external_id": "https://i.imgur.com/vGJircc.png",
+                "image_link": "https://i.imgur.com/vGJircc.png",
                 "description": "Del Perro Metro Station, Del Perro"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 89.71875,-181.984375 ]
             }
         },
         {
@@ -1375,16 +1210,13 @@ var phones = {
             "properties": {
                 "id": "4246306930",
                 "name": "(424) 630-6930",
-                "external_id": "https://i.imgur.com/yAOQ0zQ.png",
-                "image_link": "https://i.imgur.com/yAOQ0zQ.png",
+                "external_id": "https://i.imgur.com/vGJircc.png",
+                "image_link": "https://i.imgur.com/vGJircc.png",
                 "description": "Del Perro Metro Station, Del Perro"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 89.71875,-181.984375 ]
             }
         },
         {
@@ -1392,16 +1224,13 @@ var phones = {
             "properties": {
                 "id": "4242749727",
                 "name": "(424) 274-9727",
-                "external_id": "https://i.imgur.com/zDXE4oX.png",
-                "image_link": "https://i.imgur.com/zDXE4oX.png",
+                "external_id": "https://i.imgur.com/7oi7llk.png",
+                "image_link": "https://i.imgur.com/7oi7llk.png",
                 "description": "Del Perro Metro Station, Del Perro"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 89.75,-182.34375 ]
             }
         },
         {
@@ -1409,16 +1238,13 @@ var phones = {
             "properties": {
                 "id": "4241627734",
                 "name": "(424) 162-7734",
-                "external_id": "https://i.imgur.com/zDXE4oX.png",
-                "image_link": "https://i.imgur.com/zDXE4oX.png",
+                "external_id": "https://i.imgur.com/7oi7llk.png",
+                "image_link": "https://i.imgur.com/7oi7llk.png",
                 "description": "Del Perro Metro Station, Del Perro"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 89.75,-182.34375 ]
             }
         },
         {
@@ -1426,16 +1252,13 @@ var phones = {
             "properties": {
                 "id": "3107356139",
                 "name": "(310) 735-6139",
-                "external_id": "https://i.imgur.com/zDXE4oX.png",
-                "image_link": "https://i.imgur.com/zDXE4oX.png",
+                "external_id": "https://i.imgur.com/7oi7llk.png",
+                "image_link": "https://i.imgur.com/7oi7llk.png",
                 "description": "Del Perro Metro Station, Del Perro"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 89.75,-182.34375 ]
             }
         },
         {
@@ -1443,16 +1266,13 @@ var phones = {
             "properties": {
                 "id": "4244550506",
                 "name": "(424) 455-0506",
-                "external_id": "https://i.imgur.com/tlMQNfG.png",
-                "image_link": "https://i.imgur.com/tlMQNfG.png",
+                "external_id": "https://i.imgur.com/4gzEc24.png",
+                "image_link": "https://i.imgur.com/4gzEc24.png",
                 "description": "Del Perro Metro Station, Del Perro"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 89.546875,-181.9375 ]
             }
         },
         {
@@ -1460,16 +1280,13 @@ var phones = {
             "properties": {
                 "id": "4248700256",
                 "name": "(424) 870-0256",
-                "external_id": "https://i.imgur.com/tlMQNfG.png",
-                "image_link": "https://i.imgur.com/tlMQNfG.png",
+                "external_id": "https://i.imgur.com/4gzEc24.png",
+                "image_link": "https://i.imgur.com/4gzEc24.png",
                 "description": "Del Perro Metro Station, Del Perro"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 89.546875,-181.9375 ]
             }
         },
         {
@@ -1477,16 +1294,13 @@ var phones = {
             "properties": {
                 "id": "3101376242",
                 "name": "(310) 137-6242",
-                "external_id": "https://i.imgur.com/tlMQNfG.png",
-                "image_link": "https://i.imgur.com/tlMQNfG.png",
+                "external_id": "https://i.imgur.com/4gzEc24.png",
+                "image_link": "https://i.imgur.com/4gzEc24.png",
                 "description": "Del Perro Metro Station, Del Perro"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 89.546875,-181.9375 ]
             }
         },
         {
@@ -1500,10 +1314,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 87.140625,-191.90625 ]
             }
         },
         {
@@ -1517,10 +1328,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 87.140625,-191.90625 ]
             }
         },
         {
@@ -1534,10 +1342,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 87.140625,-191.90625 ]
             }
         },
         {

@@ -1356,10 +1356,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 94.171875,-189.75 ]
             }
         },
         {
@@ -1373,10 +1370,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 94.171875,-189.75 ]
             }
         },
         {
@@ -1390,10 +1384,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 94.171875,-189.75 ]
             }
         },
         {
@@ -1407,10 +1398,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 94.984375,-189.109375 ]
             }
         },
         {
@@ -1424,10 +1412,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 94.734375,-189.375 ]
             }
         },
         {
@@ -1441,10 +1426,63 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 94.84375,-189.90625 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "4247112706",
+                "name": "(424) 711-2706",
+                "external_id": "https://i.imgur.com/6l0ixMu.jpeg",
+                "image_link": "https://i.imgur.com/6l0ixMu.jpeg",
+                "description": "VPD Cells, San Andreas Ave., Vespucci"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 95.21875,-189.53125 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3104592415",
+                "name": "(310) 459-2415",
+                "external_id": "https://i.imgur.com/mpIQz3s.jpeg",
+                "image_link": "https://i.imgur.com/mpIQz3s.jpeg",
+                "description": "VPD Cells, San Andreas Ave., Vespucci"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 95.21875,-189.53125 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3109697860",
+                "name": "(310) 969-7860",
+                "external_id": "https://i.imgur.com/BfF6caI.jpeg",
+                "image_link": "https://i.imgur.com/BfF6caI.jpeg",
+                "description": "VPD 6th Floor Maitenance Room"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 94.5,-189.734375 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "4245530803",
+                "name": "(424) 553-0803",
+                "external_id": "https://i.imgur.com/gUEUUTt.jpeg",
+                "image_link": "https://i.imgur.com/gUEUUTt.jpeg",
+                "description": "VPD Italian Office"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 94.90625,-189.96875 ]
             }
         },
         {
@@ -1458,10 +1496,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 93.671875,-201.078125 ]
             }
         },
         {
@@ -1471,14 +1506,11 @@ var phones = {
                 "name": "(424) 543-4183",
                 "external_id": "https://i.imgur.com/wkZwkbP.jpeg",
                 "image_link": "https://i.imgur.com/wkZwkbP.jpeg",
-                "description": "Cortex St., Vespucci Beach"
+                "description": "Cortes St., Vespucci Beach"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 89.515625,-197.015625 ]
             }
         },
         {
@@ -1492,10 +1524,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 92.53125,-201.28125 ]
             }
         },
         {
@@ -1509,10 +1538,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 103.625,-186.46875 ]
             }
         },
         {
@@ -1526,10 +1552,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 103.625,-186.46875 ]
             }
         },
         {
@@ -1543,10 +1566,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 103.625,-186.46875 ]
             }
         },
         {
@@ -1560,10 +1580,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 103.515625,-189.46875 ]
             }
         },
         {
@@ -1577,10 +1594,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 103.515625,-189.46875 ]
             }
         },
         {
@@ -1594,10 +1608,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 103.515625,-189.46875 ]
             }
         },
         {
@@ -1611,10 +1622,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 103.890625,-187.21875 ]
             }
         },
         {
@@ -1628,10 +1636,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 103.890625,-187.21875 ]
             }
         },
         {
@@ -1645,10 +1650,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 103.890625,-187.21875 ]
             }
         },
         {
@@ -1662,10 +1664,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 103.140625,-190.15625 ]
             }
         },
         {
@@ -1679,10 +1678,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 103.921875,-190.390625 ]
             }
         },
         {
@@ -1696,10 +1692,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 102.9375,-191.515625 ]
             }
         },
         {
@@ -1713,10 +1706,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 102.9375,-191.515625 ]
             }
         },
         {
@@ -1730,10 +1720,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 106.90625,-187.75 ]
             }
         },
         {
@@ -1747,10 +1734,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 106.65625,-185.90625 ]
             }
         },
         {
@@ -1764,10 +1748,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 106.65625,-185.90625 ]
             }
         },
         {
@@ -1775,16 +1756,13 @@ var phones = {
             "properties": {
                 "id": "4244153713",
                 "name": "(424) 415-3713",
-                "external_id": "https://i.imgur.com/vYua13U.png",
-                "image_link": "https://i.imgur.com/vYua13U.png",
+                "external_id": "https://i.imgur.com/GtWitcF.png",
+                "image_link": "https://i.imgur.com/GtWitcF.png",
                 "description": "Little Seoul Metro Station"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 106.6875,-186.453125 ]
             }
         },
         {
@@ -1792,16 +1770,13 @@ var phones = {
             "properties": {
                 "id": "3103458732",
                 "name": "(310) 345-8732",
-                "external_id": "https://i.imgur.com/vYua13U.png",
-                "image_link": "https://i.imgur.com/vYua13U.png",
+                "external_id": "https://i.imgur.com/GtWitcF.png",
+                "image_link": "https://i.imgur.com/GtWitcF.png",
                 "description": "Little Seoul Metro Station"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 106.6875,-186.453125 ]
             }
         },
         {
@@ -1809,16 +1784,13 @@ var phones = {
             "properties": {
                 "id": "3102888666",
                 "name": "(310) 288-8666",
-                "external_id": "https://i.imgur.com/vYua13U.png",
-                "image_link": "https://i.imgur.com/vYua13U.png",
+                "external_id": "https://i.imgur.com/GtWitcF.png",
+                "image_link": "https://i.imgur.com/GtWitcF.png",
                 "description": "Little Seoul Metro Station"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 106.6875,-186.453125 ]
             }
         },
         {
@@ -1826,16 +1798,13 @@ var phones = {
             "properties": {
                 "id": "3104568141",
                 "name": "(310) 456-8141",
-                "external_id": "https://i.imgur.com/vYua13U.png",
-                "image_link": "https://i.imgur.com/vYua13U.png",
+                "external_id": "https://i.imgur.com/Pie0EVC.png",
+                "image_link": "https://i.imgur.com/Pie0EVC.png",
                 "description": "Little Seoul Metro Station"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 106.6875,-186.453125 ]
             }
         },
         {
@@ -1843,16 +1812,13 @@ var phones = {
             "properties": {
                 "id": "3107312452",
                 "name": "(310) 731-2452",
-                "external_id": "https://i.imgur.com/vYua13U.png",
-                "image_link": "https://i.imgur.com/vYua13U.png",
+                "external_id": "https://i.imgur.com/Pie0EVC.png",
+                "image_link": "https://i.imgur.com/Pie0EVC.png",
                 "description": "Little Seoul Metro Station"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 106.6875,-186.453125 ]
             }
         },
         {
@@ -1860,16 +1826,13 @@ var phones = {
             "properties": {
                 "id": "3107290075",
                 "name": "(310) 729-0075",
-                "external_id": "https://i.imgur.com/vYua13U.png",
-                "image_link": "https://i.imgur.com/vYua13U.png",
+                "external_id": "https://i.imgur.com/Pie0EVC.png",
+                "image_link": "https://i.imgur.com/Pie0EVC.png",
                 "description": "Little Seoul Metro Station"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 106.6875,-186.453125 ]
             }
         },
         {
@@ -1883,10 +1846,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 106.484375,-198.9375 ]
             }
         },
         {
@@ -1900,10 +1860,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 106.484375,-198.9375 ]
             }
         },
         {
@@ -1917,10 +1874,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 106.484375,-198.9375 ]
             }
         },
         {
@@ -1934,10 +1888,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 106.484375,-198.9375 ]
             }
         },
         {
@@ -1951,10 +1902,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 103.640625,-195.34375 ]
             }
         },
         {
@@ -1968,10 +1916,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 103.390625,-195.6875 ]
             }
         },
         {
@@ -1985,10 +1930,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 98.953125,-201.9375 ]
             }
         },
         {
@@ -2002,10 +1944,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 98.609375,-201.171875 ]
             }
         },
         {
@@ -2019,10 +1958,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 98.609375,-201.171875 ]
             }
         },
         {
@@ -2036,10 +1972,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 96.796875,-201.84375 ]
             }
         },
         {
@@ -2053,10 +1986,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 97.625,-200.328125 ]
             }
         },
         {
@@ -2070,10 +2000,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 100.046875,-199.78125 ]
             }
         },
         {
@@ -2087,10 +2014,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 100.28125,-200.453125 ]
             }
         },
         {
@@ -2104,10 +2028,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 101.5,-200.546875 ]
             }
         },
         {
@@ -2121,10 +2042,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 102.203125,-199.6875 ]
             }
         },
         {
@@ -2138,10 +2056,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 102.734375,-200.59375 ]
             }
         },
         {
@@ -2155,10 +2070,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 102.109375,-201.40625 ]
             }
         },
         {
@@ -2172,10 +2084,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 101.90625,-201.796875 ]
             }
         },
         {
@@ -2189,10 +2098,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 101.171875,-202.71875 ]
             }
         },
         {
@@ -2206,10 +2112,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 114.484375,-213.0625 ]
             }
         },
         {
@@ -2223,10 +2126,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 114.484375,-213.0625 ]
             }
         },
         {
@@ -2240,10 +2140,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 114.75,-213.71875 ]
             }
         },
         {
@@ -2257,10 +2154,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 114.75,-213.71875 ]
             }
         },
         {
@@ -2274,10 +2168,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 114.3125,-214.296875 ]
             }
         },
         {
@@ -2291,10 +2182,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 114.3125,-214.296875 ]
             }
         },
         {
@@ -2308,10 +2196,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 111.34375,-211.6875 ]
             }
         },
         {
@@ -2325,10 +2210,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 112.171875,-212.34375 ]
             }
         },
         {
@@ -2342,10 +2224,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 112.5625,-213.515625 ]
             }
         },
         {
@@ -2359,10 +2238,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 112.109375,-214.390625 ]
             }
         },
         {
@@ -2376,10 +2252,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 111.09375,-214.859375 ]
             }
         },
         {
@@ -2393,10 +2266,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 109.984375,-214.3125 ]
             }
         },
         {
@@ -2410,10 +2280,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 109.15625,-213.59375 ]
             }
         },
         {
@@ -2427,10 +2294,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 108.828125,-212.703125 ]
             }
         },
         {
@@ -2444,10 +2308,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 109.296875,-211.640625 ]
             }
         },
         {
@@ -2461,10 +2322,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 110.359375,-211.21875 ]
             }
         },
         {
@@ -2478,10 +2336,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 104.703125,-218.65625 ]
             }
         },
         {
@@ -2495,10 +2350,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 99.59375,-224.546875 ]
             }
         },
         {
@@ -2512,10 +2364,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 97.46875,-224.4375 ]
             }
         },
         {
@@ -2546,10 +2395,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 95.8125,-224.5 ]
             }
         },
         {
@@ -2563,10 +2409,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 95.671875,-224.828125 ]
             }
         },
         {
@@ -2580,10 +2423,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 95.234375,-225.5 ]
             }
         },
         {
@@ -2597,10 +2437,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 95.5625,-224.859375 ]
             }
         },
         {
@@ -2614,10 +2451,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 95.5625,-224.859375 ]
             }
         },
         {
@@ -2631,10 +2465,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 95.59375,-229.671875 ]
             }
         },
         {
@@ -2648,10 +2479,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 94.78125,-228.421875 ]
             }
         },
         {
@@ -2665,10 +2493,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 94.78125,-228.421875 ]
             }
         },
         {
@@ -2682,10 +2507,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 94.96875,-228.234375 ]
             }
         },
         {
@@ -2699,10 +2521,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 94.96875,-228.234375 ]
             }
         },
         {
@@ -2716,10 +2535,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 94.96875,-228.234375 ]
             }
         },
         {
@@ -2733,10 +2549,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 94.84375,-228.765625 ]
             }
         },
         {
@@ -2750,10 +2563,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 94.84375,-228.765625 ]
             }
         },
         {
@@ -2767,10 +2577,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 94.84375,-228.765625 ]
             }
         },
         {
@@ -2784,10 +2591,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 98.4375,-221.09375 ]
             }
         },
         {
@@ -2801,10 +2605,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 98.4375,-221.09375 ]
             }
         },
         {
@@ -2818,10 +2619,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 98.4375,-221.09375 ]
             }
         },
         {
@@ -2835,10 +2633,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 98.4375,-221.09375 ]
             }
         },
         {
@@ -2852,10 +2647,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 98.4375,-221.09375 ]
             }
         },
         {
@@ -2869,10 +2661,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 98.4375,-221.09375 ]
             }
         },
         {
@@ -2886,10 +2675,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 99.390625,-220.3125 ]
             }
         },
         {
@@ -2903,10 +2689,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 99.390625,-220.3125 ]
             }
         },
         {
@@ -2920,10 +2703,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 99.0625,-220.46875 ]
             }
         },
         {
@@ -2937,10 +2717,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 99.0625,-220.46875 ]
             }
         },
         {
@@ -2954,10 +2731,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 99.0625,-220.46875 ]
             }
         },
         {
@@ -2971,10 +2745,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 99.328125,-220.140625 ]
             }
         },
         {
@@ -2988,10 +2759,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 99.328125,-220.140625 ]
             }
         },
         {
@@ -3005,10 +2773,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 99.328125,-220.140625 ]
             }
         },
         {
@@ -3022,10 +2787,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 110.3203125,-203.296875 ]
             }
         },
         {
@@ -3039,10 +2801,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 110.3203125,-203.296875 ]
             }
         },
         {
@@ -3056,10 +2815,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 120.828125,-200.234375 ]
             }
         },
         {
@@ -3073,10 +2829,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 120.828125,-200.234375 ]
             }
         },
         {
@@ -3090,10 +2843,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 123.3125,-198.859375 ]
             }
         },
         {
@@ -3107,10 +2857,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 123.375,-200.53125 ]
             }
         },
         {
@@ -3124,10 +2871,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 123.375,-200.53125 ]
             }
         },
         {
@@ -3141,10 +2885,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 123.375,-200.53125 ]
             }
         },
         {
@@ -3158,10 +2899,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 118.296875,-203.015625 ]
             }
         },
         {
@@ -3175,10 +2913,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 118.296875,-203.015625 ]
             }
         },
         {
@@ -3192,10 +2927,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 118.296875,-203.015625 ]
             }
         },
         {
@@ -3209,10 +2941,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 113.515625,-202 ]
             }
         },
         {
@@ -3226,10 +2955,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 116.265625,-201.078125 ]
             }
         },
         {
@@ -3243,10 +2969,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 116.265625,-201.078125 ]
             }
         },
         {
@@ -3260,10 +2983,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 116.828125,-203 ]
             }
         },
         {
@@ -3277,10 +2997,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 116.828125,-203 ]
             }
         },
         {
@@ -3294,10 +3011,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 129,-208.515625 ]
             }
         },
         {
@@ -3311,10 +3025,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 126.640625,-210.890625 ]
             }
         },
         {
@@ -3328,10 +3039,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 126.640625,-210.890625 ]
             }
         },
         {
@@ -3345,10 +3053,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 126.640625,-210.890625 ]
             }
         },
         {
@@ -3362,10 +3067,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 121.078125,-213.921875 ]
             }
         },
         {
@@ -3379,10 +3081,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 121.078125,-213.921875 ]
             }
         },
         {
@@ -3396,10 +3095,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 126.578125,-214.75 ]
             }
         },
         {
@@ -3413,10 +3109,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 126.578125,-214.75 ]
             }
         },
         {
@@ -3430,10 +3123,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 125.515625,-205.5 ]
             }
         },
         {
@@ -3447,10 +3137,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 125.515625,-205.5 ]
             }
         },
         {
@@ -3464,10 +3151,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 125.515625,-205.5 ]
             }
         },
         {
@@ -3481,10 +3165,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 125.609375,-205.5625 ]
             }
         },
         {
@@ -3498,10 +3179,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 119.609375,-207.484375 ]
             }
         },
         {
@@ -3515,10 +3193,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 120.3671875,-208.125 ]
             }
         },
         {
@@ -3532,10 +3207,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 121.765625,-209.2890625 ]
             }
         },
         {
@@ -3549,10 +3221,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 120.125,-204.40625 ]
             }
         },
         {
@@ -3566,10 +3235,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 120.953125,-204.296875 ]
             }
         },
         {
@@ -3583,10 +3249,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 122.109375,-204.328125 ]
             }
         },
         {
@@ -3600,10 +3263,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 122.109375,-204.328125 ]
             }
         },
         {
@@ -3617,10 +3277,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 121.984375,-203.84375 ]
             }
         },
         {
@@ -3634,10 +3291,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 138.68984781668894,-216.1128274551372 ]
             }
         },
         {
@@ -3651,10 +3305,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 138.68984781668894,-216.1128274551372 ]
             }
         },
         {
@@ -3668,10 +3319,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 133.84609781668894,-216.5347024551372 ]
             }
         },
         {
@@ -3685,10 +3333,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 134.12734781668894,-216.9722024551372 ]
             }
         },
         {
@@ -3702,10 +3347,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 142.203125,-201.28125 ]
             }
         },
         {
@@ -3719,10 +3361,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 142.203125,-201.28125 ]
             }
         },
         {
@@ -3736,10 +3375,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 133.375,-208.8125 ]
             }
         },
         {
@@ -3753,10 +3389,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 133.375,-208.8125 ]
             }
         },
         {
@@ -3770,10 +3403,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 134.03125,-194.765625 ]
             }
         },
         {
@@ -3787,10 +3417,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 134.21875,-193.953125 ]
             }
         },
         {
@@ -3804,10 +3431,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 126,-191.296875 ]
             }
         },
         {
@@ -3821,10 +3445,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 126.34375,-185.046875 ]
             }
         },
         {
@@ -3838,10 +3459,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 126.34375,-185.046875 ]
             }
         },
         {
@@ -3855,10 +3473,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 126.734375,-185.0625 ]
             }
         },
         {
@@ -3872,10 +3487,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 126.734375,-185.0625 ]
             }
         },
         {
@@ -3889,10 +3501,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 124.703125,-187.578125 ]
             }
         },
         {
@@ -3906,10 +3515,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 125.5,-189.140625 ]
             }
         },
         {
@@ -3923,10 +3529,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 125.5,-189.140625 ]
             }
         },
         {
@@ -3940,10 +3543,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 125.421875,-191.59375 ]
             }
         },
         {
@@ -3957,10 +3557,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 125.421875,-191.59375 ]
             }
         },
         {
@@ -3974,10 +3571,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 125.0625,-192.53125 ]
             }
         },
         {
@@ -3991,10 +3585,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 122.375,-194.984375 ]
             }
         },
         {
@@ -4008,10 +3599,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 122.375,-194.984375 ]
             }
         },
         {
@@ -4025,10 +3613,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 122.265625,-194.84375 ]
             }
         },
         {
@@ -4042,10 +3627,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 122.734375,-194.890625 ]
             }
         },
         {
@@ -4059,10 +3641,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 122.78125,-194.765625 ]
             }
         },
         {
@@ -4076,10 +3655,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 121.703125,-190.359375 ]
             }
         },
         {
@@ -4093,10 +3669,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 121.703125,-190.359375 ]
             }
         },
         {
@@ -4110,10 +3683,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 117.546875,-195.390625 ]
             }
         },
         {
@@ -4127,10 +3697,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 123.25,-189.21875 ]
             }
         },
         {
@@ -4144,10 +3711,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 123.25,-189.21875 ]
             }
         },
         {
@@ -4161,10 +3725,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 115.546875,-186.890625 ]
             }
         },
         {
@@ -4178,10 +3739,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 115.546875,-186.890625 ]
             }
         },
         {
@@ -4195,10 +3753,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 115.546875,-186.890625 ]
             }
         },
         {
@@ -4212,10 +3767,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 115.90625,-185.796875 ]
             }
         },
         {
@@ -4229,10 +3781,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 115.90625,-185.796875 ]
             }
         },
         {
@@ -4246,10 +3795,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 119.4375,-187.84375 ]
             }
         },
         {
@@ -4263,10 +3809,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 118.203125,-186.53125 ]
             }
         },
         {
@@ -4280,10 +3823,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 118.203125,-186.53125 ]
             }
         },
         {
@@ -4297,10 +3837,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 117.078125,-187.625 ]
             }
         },
         {
@@ -4314,10 +3851,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 117.078125,-187.625 ]
             }
         },
         {
@@ -4331,10 +3865,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 113.796875,-186.359375 ]
             }
         },
         {
@@ -4348,10 +3879,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 113.796875,-186.359375 ]
             }
         },
         {
@@ -4365,10 +3893,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 114.421875,-185.421875 ]
             }
         },
         {
@@ -4382,10 +3907,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 111.984375,-185.09375 ]
             }
         },
         {
@@ -4399,10 +3921,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 111.984375,-185.09375 ]
             }
         },
         {
@@ -4416,10 +3935,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 111.65625,-186.734375 ]
             }
         },
         {
@@ -4433,10 +3949,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 111.65625,-186.734375 ]
             }
         },
         {
@@ -4450,10 +3963,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 112.984375,-187 ]
             }
         },
         {
@@ -4467,10 +3977,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 111.765625,-188.390625 ]
             }
         },
         {
@@ -4484,10 +3991,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 111.765625,-188.390625 ]
             }
         },
         {
@@ -4501,10 +4005,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 112.4375,-188.4375 ]
             }
         },
         {
@@ -4518,10 +4019,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 112.4375,-188.4375 ]
             }
         },
         {
@@ -4535,10 +4033,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 113.59375,-187.390625 ]
             }
         },
         {
@@ -4552,10 +4047,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 112.4375,-192.625 ]
             }
         },
         {
@@ -4569,10 +4061,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 112.4375,-192.625 ]
             }
         },
         {
@@ -4586,10 +4075,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 118.375,-195 ]
             }
         },
         {
@@ -4603,10 +4089,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 118.375,-195 ]
             }
         },
         {
@@ -4620,10 +4103,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 170.09375,-165.109375 ]
             }
         },
         {
@@ -4637,10 +4117,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 170.015625,-164.359375 ]
             }
         },
         {
@@ -4654,10 +4131,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 170.015625,-164.359375 ]
             }
         },
         {
@@ -4671,10 +4145,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 169.7031262797757,-118.82812944157443 ]
             }
         },
         {
@@ -4688,10 +4159,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 155.234375,-119.296875 ]
             }
         },
         {
@@ -4705,10 +4173,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 155.234375,-119.296875 ]
             }
         },
         {
@@ -4722,10 +4187,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 155.234375,-119.296875 ]
             }
         },
         {
@@ -4739,10 +4201,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 155.234375,-119.296875 ]
             }
         },
         {
@@ -4756,10 +4215,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 87.359375,-175.671875 ]
             }
         },
         {
@@ -4773,10 +4229,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 87.359375,-175.671875 ]
             }
         },
         {
@@ -4790,10 +4243,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 87.359375,-175.671875 ]
             }
         },
         {
@@ -4807,10 +4257,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 87.609375,-177 ]
             }
         },
         {
@@ -4824,10 +4271,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 90.28125,-180.375 ]
             }
         },
         {
@@ -4841,10 +4285,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 90.28125,-180.375 ]
             }
         },
         {
@@ -4858,10 +4299,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 90.28125,-180.375 ]
             }
         },
         {
@@ -4875,10 +4313,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 90.28125,-180.375 ]
             }
         },
         {
@@ -4892,10 +4327,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 90.6875,-180.734375 ]
             }
         },
         {
@@ -4909,10 +4341,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 90.6875,-180.734375 ]
             }
         },
         {
@@ -4926,10 +4355,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 91.34375,-183.140625 ]
             }
         },
         {
@@ -4943,10 +4369,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 91.34375,-183.140625 ]
             }
         },
         {
@@ -4960,10 +4383,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 91.34375,-183.140625 ]
             }
         },
         {
@@ -4977,10 +4397,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 95.09375,-181.828125 ]
             }
         },
         {
@@ -4994,10 +4411,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 95.09375,-181.828125 ]
             }
         },
         {
@@ -5011,10 +4425,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 95.09375,-181.828125 ]
             }
         },
         {
@@ -5028,10 +4439,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 91.84375,-182.171875 ]
             }
         },
         {
@@ -5045,10 +4453,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 92.140625,-179.40625 ]
             }
         },
         {
@@ -5062,10 +4467,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 92.140625,-179.40625 ]
             }
         },
         {
@@ -5079,10 +4481,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 96.03125,-177.046875 ]
             }
         },
         {
@@ -5096,10 +4495,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 96.03125,-177.046875 ]
             }
         },
         {
@@ -5113,10 +4509,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 97.03125,-181.171875 ]
             }
         },
         {
@@ -5130,10 +4523,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 102.828125,-180.3125 ]
             }
         },
         {
@@ -5147,10 +4537,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 102.828125,-180.3125 ]
             }
         },
         {
@@ -5164,10 +4551,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 97.5625,-177.8125 ]
             }
         },
         {
@@ -5181,10 +4565,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 98.953125,-177.6875 ]
             }
         },
         {
@@ -5198,10 +4579,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 100.390625,-177.640625 ]
             }
         },
         {
@@ -5215,10 +4593,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 100.390625,-177.640625 ]
             }
         },
         {
@@ -5232,10 +4607,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 99.96875,-175.125 ]
             }
         },
         {
@@ -5249,10 +4621,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 100.578125,-174.765625 ]
             }
         },
         {
@@ -5266,10 +4635,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 99.84375,-175.3125 ]
             }
         },
         {
@@ -5283,10 +4649,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 99.84375,-175.3125 ]
             }
         },
         {
@@ -5300,10 +4663,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 99.84375,-175.3125 ]
             }
         },
         {
@@ -5317,10 +4677,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 99.84375,-175.3125 ]
             }
         },
         {
@@ -5334,10 +4691,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 100.6875,-175.515625 ]
             }
         },
         {
@@ -5351,10 +4705,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 100.6875,-175.515625 ]
             }
         },
         {
@@ -5362,16 +4713,13 @@ var phones = {
             "properties": {
                 "id": "3109711466",
                 "name": "(310) 971-1466",
-                "external_id": "https://i.imgur.com/qePPc1E.png",
-                "image_link": "https://i.imgur.com/qePPc1E.png",
+                "external_id": "https://i.imgur.com/ZmCe2TJ.png",
+                "image_link": "https://i.imgur.com/ZmCe2TJ.png",
                 "description": "Portola Dr. Metro Station"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 100.703125,-175.34375 ]
             }
         },
         {
@@ -5379,16 +4727,13 @@ var phones = {
             "properties": {
                 "id": "3108599104",
                 "name": "(310) 859-9104",
-                "external_id": "https://i.imgur.com/qePPc1E.png",
-                "image_link": "https://i.imgur.com/qePPc1E.png",
+                "external_id": "https://i.imgur.com/ZmCe2TJ.png",
+                "image_link": "https://i.imgur.com/ZmCe2TJ.png",
                 "description": "Portola Dr. Metro Station"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 100.703125,-175.34375 ]
             }
         },
         {
@@ -5396,16 +4741,13 @@ var phones = {
             "properties": {
                 "id": "3107543421",
                 "name": "(310) 754-3421",
-                "external_id": "https://i.imgur.com/qePPc1E.png",
-                "image_link": "https://i.imgur.com/qePPc1E.png",
+                "external_id": "https://i.imgur.com/ZmCe2TJ.png",
+                "image_link": "https://i.imgur.com/ZmCe2TJ.png",
                 "description": "Portola Dr. Metro Station"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 100.703125,-175.34375 ]
             }
         },
         {
@@ -5413,16 +4755,13 @@ var phones = {
             "properties": {
                 "id": "4247182929",
                 "name": "(424) 718-2929",
-                "external_id": "https://i.imgur.com/qePPc1E.png",
-                "image_link": "https://i.imgur.com/qePPc1E.png",
+                "external_id": "https://i.imgur.com/ZmCe2TJ.png",
+                "image_link": "https://i.imgur.com/ZmCe2TJ.png",
                 "description": "Portola Dr. Metro Station"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 100.703125,-175.34375 ]
             }
         },
         {
@@ -5430,16 +4769,13 @@ var phones = {
             "properties": {
                 "id": "3103789161",
                 "name": "(310) 378-9161",
-                "external_id": "https://i.imgur.com/qePPc1E.png",
-                "image_link": "https://i.imgur.com/qePPc1E.png",
+                "external_id": "https://i.imgur.com/ZmCe2TJ.png",
+                "image_link": "https://i.imgur.com/ZmCe2TJ.png",
                 "description": "Portola Dr. Metro Station"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 100.703125,-175.34375 ]
             }
         },
         {
@@ -5447,16 +4783,13 @@ var phones = {
             "properties": {
                 "id": "4248576494",
                 "name": "(424) 857-6494",
-                "external_id": "https://i.imgur.com/qePPc1E.png",
-                "image_link": "https://i.imgur.com/qePPc1E.png",
+                "external_id": "https://i.imgur.com/ZmCe2TJ.png",
+                "image_link": "https://i.imgur.com/ZmCe2TJ.png",
                 "description": "Portola Dr. Metro Station"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 100.703125,-175.34375 ]
             }
         },
         {
@@ -5470,10 +4803,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 106.015625,-179.34375 ]
             }
         },
         {
@@ -5487,10 +4817,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 105.84375,-180.578125 ]
             }
         },
         {
@@ -5504,10 +4831,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 105.84375,-180.578125 ]
             }
         },
         {
@@ -5521,10 +4845,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 105.84375,-180.578125 ]
             }
         },
         {
@@ -5538,10 +4859,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 104.625,-176.984375 ]
             }
         },
         {
@@ -5555,10 +4873,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 104.625,-176.984375 ]
             }
         },
         {
@@ -5572,10 +4887,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 106.078125,-175.8125 ]
             }
         },
         {
@@ -5589,10 +4901,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 107.984375,-178.234375 ]
             }
         },
         {
@@ -5606,10 +4915,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 107.984375,-178.234375 ]
             }
         },
         {
@@ -5623,10 +4929,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 107.984375,-178.234375 ]
             }
         },
         {
@@ -5640,10 +4943,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 109.234375,-179.171875 ]
             }
         },
         {
@@ -5657,10 +4957,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 109.234375,-179.171875 ]
             }
         },
         {
@@ -5674,10 +4971,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 106.65625,-178.8125 ]
             }
         },
         {
@@ -5691,10 +4985,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 106.65625,-178.8125 ]
             }
         },
         {
@@ -5708,10 +4999,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 106.65625,-178.8125 ]
             }
         },
         {
@@ -5725,10 +5013,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 107.5625,-180.71875 ]
             }
         },
         {
@@ -5742,10 +5027,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 107.5625,-180.71875 ]
             }
         },
         {
@@ -5759,10 +5041,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 108.3125,-179.90625 ]
             }
         },
         {
@@ -5776,10 +5055,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 108.3125,-179.90625 ]
             }
         },
         {
@@ -5793,10 +5069,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 107.984375,-179.625 ]
             }
         },
         {
@@ -5810,10 +5083,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 107.984375,-179.625 ]
             }
         },
         {
@@ -5827,10 +5097,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 107.984375,-179.625 ]
             }
         },
         {
@@ -5844,10 +5111,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 106.9375,-179.609375 ]
             }
         },
         {
@@ -5861,10 +5125,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 106.9375,-179.609375 ]
             }
         },
         {
@@ -5878,10 +5139,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 107.859375,-179.625 ]
             }
         },
         {
@@ -5895,10 +5153,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 109.875,-178.03125 ]
             }
         },
         {
@@ -5912,10 +5167,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 114.015625,-179.328125 ]
             }
         },
         {
@@ -5929,10 +5181,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 114.015625,-179.328125 ]
             }
         },
         {
@@ -5946,10 +5195,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 111.15625,-179.546875 ]
             }
         },
         {
@@ -5963,10 +5209,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 111.15625,-179.546875 ]
             }
         },
         {
@@ -5980,10 +5223,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 111.15625,-179.546875 ]
             }
         },
         {
@@ -5997,10 +5237,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 111.15625,-179.546875 ]
             }
         },
         {
@@ -6014,10 +5251,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 111.15625,-179.546875 ]
             }
         },
         {
@@ -6031,10 +5265,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 111.15625,-179.546875 ]
             }
         },
         {
@@ -6048,10 +5279,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 111.15625,-179.546875 ]
             }
         },
         {
@@ -6065,10 +5293,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 111.15625,-179.546875 ]
             }
         },
         {
@@ -6082,10 +5307,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 128.28125,-175.703125 ]
             }
         },
         {
@@ -6099,10 +5321,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 126.65625,-174.984375 ]
             }
         },
         {
@@ -6116,10 +5335,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 128.2109375,-173.125 ]
             }
         },
         {
@@ -6133,10 +5349,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 128.796875,-172.1953125 ]
             }
         },
         {
@@ -6150,10 +5363,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 127.1171875,-174.1171875 ]
             }
         },
         {
@@ -6167,10 +5377,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 116.78125,-174.84375 ]
             }
         },
         {
@@ -6184,10 +5391,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 116.78125,-174.84375 ]
             }
         },
         {
@@ -6201,10 +5405,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 116.453125,-174.734375 ]
             }
         },
         {
@@ -6218,10 +5419,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 113.625,-173.796875 ]
             }
         },
         {
@@ -6235,10 +5433,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 119.671875,-176.7890625 ]
             }
         },
         {
@@ -6252,10 +5447,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 119.671875,-176.7890625 ]
             }
         },
         {
@@ -6269,10 +5461,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 106.1875,-171.9296875 ]
             }
         },
         {
@@ -6286,10 +5475,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 105.125,-167.59375 ]
             }
         },
         {
@@ -6303,10 +5489,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 115.359375,-167.859375 ]
             }
         },
         {
@@ -6320,10 +5503,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 101.46875,-166.484375 ]
             }
         },
         {
@@ -6337,10 +5517,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 101.46875,-166.484375 ]
             }
         },
         {
@@ -6354,10 +5531,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 103,-167.15625 ]
             }
         },
         {
@@ -6371,10 +5545,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 103,-167.15625 ]
             }
         },
         {
@@ -6388,10 +5559,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 103,-167.15625 ]
             }
         },
         {
@@ -6405,10 +5573,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 102.671875,-170.03125 ]
             }
         },
         {
@@ -6422,10 +5587,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 102.671875,-170.03125 ]
             }
         },
         {
@@ -6439,10 +5601,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 120.140625,-168.453125 ]
             }
         },
         {
@@ -6456,10 +5615,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 120.140625,-168.453125 ]
             }
         },
         {
@@ -6473,10 +5629,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 120.140625,-168.453125 ]
             }
         },
         {
@@ -6490,10 +5643,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 125.9375,-169.6875 ]
             }
         },
         {
@@ -6507,10 +5657,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 125.9375,-169.6875 ]
             }
         },
         {
@@ -6524,10 +5671,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 119.921875,-167.625 ]
             }
         },
         {
@@ -6541,10 +5685,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 122.09375,-166.015625 ]
             }
         },
         {
@@ -6558,10 +5699,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 130.640625,-167.078125 ]
             }
         },
         {
@@ -6575,10 +5713,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 130.640625,-167.078125 ]
             }
         },
         {
@@ -6592,10 +5727,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 137.1875,-175.5 ]
             }
         },
         {
@@ -6609,10 +5741,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 141.4375,-179.109375 ]
             }
         },
         {
@@ -6626,10 +5755,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 141.578125,-178.671875 ]
             }
         },
         {
@@ -6643,10 +5769,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 141.578125,-178.671875 ]
             }
         },
         {
@@ -6660,10 +5783,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 139.53125,-188.59375 ]
             }
         },
         {
@@ -6677,10 +5797,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 141.15625,-188.59375 ]
             }
         },
         {
@@ -6694,10 +5811,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 142.0625,-182.796875 ]
             }
         },
         {
@@ -6711,10 +5825,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 142.5,-180.96875 ]
             }
         },
         {
@@ -6728,10 +5839,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 141.625,-181.21875 ]
             }
         },
         {
@@ -6745,10 +5853,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 141.53125,-181.984375 ]
             }
         },
         {
@@ -6762,10 +5867,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 141.140625,-180.34375 ]
             }
         },
         {
@@ -6779,10 +5881,7 @@ var phones = {
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [
-                    1,
-                    1
-                ]
+                "coordinates": [ 79.93359375,-156.296875 ]
             }
         }
     ]

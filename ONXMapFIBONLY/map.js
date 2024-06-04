@@ -83,6 +83,7 @@ addGarage(interactive_map);
 
 //RESTRICTED INFO
 addPhones(interactive_map);
+addMarabunta(interactive_map);
 
 // Step 4:
 // Finalize the map after adding all layers.

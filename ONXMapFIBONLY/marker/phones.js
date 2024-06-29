@@ -1520,11 +1520,53 @@ var phones = {
                 "name": "(310) 990-0364",
                 "external_id": "https://i.imgur.com/EPCsPMI.jpeg",
                 "image_link": "https://i.imgur.com/EPCsPMI.jpeg",
-                "description": "Magellin Ave., Vespucci"
+                "description": "Magellan Ave., Vespucci"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [ 92.53125,-201.28125 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3102011798",
+                "name": "(310) 201-1798",
+                "external_id": "https://i.imgur.com/9HhCdra.jpeg",
+                "image_link": "https://i.imgur.com/9HhCdra.jpeg",
+                "description": "Aguja St., Vespucci"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 93.2109375,-202.1484375 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "4247255057",
+                "name": "(424) 725-5057",
+                "external_id": "https://i.imgur.com/9HhCdra.jpeg",
+                "image_link": "https://i.imgur.com/9HhCdra.jpeg",
+                "description": "Aguja St., Vespucci"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 93.2109375,-202.1484375 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "4246170724",
+                "name": "(424) 617-0724",
+                "external_id": "https://i.imgur.com/9HhCdra.jpeg",
+                "image_link": "https://i.imgur.com/9HhCdra.jpeg",
+                "description": "Aguja St., Vespucci"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 93.2109375,-202.1484375 ]
             }
         },
         {

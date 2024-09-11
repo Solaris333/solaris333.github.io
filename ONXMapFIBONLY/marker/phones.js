@@ -564,6 +564,272 @@ var phones = {
         {
             "type": "Feature",
             "properties": {
+                "id": "4245325768",
+                "name": "(424) 532-5768",
+                "external_id": "https://i.imgur.com/cfsDPui.png",
+                "image_link": "https://i.imgur.com/cfsDPui.png",
+                "description": "Paleto Tow Yard, Paleto Bay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 111.390625,-46.0546875 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3108509526",
+                "name": "(310) 850-9526",
+                "external_id": "https://i.imgur.com/BYotVWq.png",
+                "image_link": "https://i.imgur.com/BYotVWq.png",
+                "description": "Paleto Tow Yard, Paleto Bay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 111.390625,-46.0546875 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "4249407431",
+                "name": "(424) 940-7431",
+                "external_id": "https://i.imgur.com/IJiqfmQ.jpeg",
+                "image_link": "https://i.imgur.com/IJiqfmQ.jpeg",
+                "description": "Dream View Motel, Pyrite Ave, Paleto Bay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 115.3515625,-42.03125 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "4245126377",
+                "name": "(424) 512-6377",
+                "external_id": "https://i.imgur.com/UAvzwYk.jpeg",
+                "image_link": "https://i.imgur.com/UAvzwYk.jpeg",
+                "description": "Dream View Motel, Pyrite Ave, Paleto Bay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 115.3515625,-42.03125 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3101097029",
+                "name": "(310) 109-7029",
+                "external_id": "https://i.imgur.com/TeAtIWQ.jpeg",
+                "image_link": "https://i.imgur.com/TeAtIWQ.jpeg",
+                "description": "Dream View Motel, Pyrite Ave, Paleto Bay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 115.3515625,-42.03125 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "4242975630",
+                "name": "(424) 297-5630",
+                "external_id": "https://i.imgur.com/4nyPTZB.png",
+                "image_link": "https://i.imgur.com/4nyPTZB.png",
+                "description": "Dream View Motel, Pyrite Ave, Paleto Bay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 115.3515625,-42.03125 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3107594770",
+                "name": "(310) 759-4770",
+                "external_id": "https://i.imgur.com/xIOr5cN.jpeg",
+                "image_link": "https://i.imgur.com/xIOr5cN.jpeg",
+                "description": "Dream View Motel, Pyrite Ave, Paleto Bay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 115.3515625,-42.03125 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "4248922184",
+                "name": "(424) 892-2184",
+                "external_id": "https://i.imgur.com/qv22Tia.jpeg",
+                "image_link": "https://i.imgur.com/qv22Tia.jpeg",
+                "description": "Dream View Motel, Pyrite Ave, Paleto Bay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 115.3515625,-42.03125 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "4248078493",
+                "name": "(424) 807-8493",
+                "external_id": "https://i.imgur.com/XregEwP.jpeg",
+                "image_link": "https://i.imgur.com/XregEwP.jpeg",
+                "description": "Dream View Motel, Pyrite Ave, Paleto Bay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 115.3515625,-42.03125 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3107656211",
+                "name": "(310) 765-6211",
+                "external_id": "https://i.imgur.com/9TcCWdm.jpeg",
+                "image_link": "https://i.imgur.com/9TcCWdm.jpeg",
+                "description": "Dream View Motel, Pyrite Ave, Paleto Bay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 115.3515625,-42.03125 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3105963408",
+                "name": "(310) 596-3408",
+                "external_id": "https://i.imgur.com/H0DJAm4.jpeg",
+                "image_link": "https://i.imgur.com/H0DJAm4.jpeg",
+                "description": "Dream View Motel, Pyrite Ave, Paleto Bay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 115.3515625,-42.03125 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3109720433",
+                "name": "(310) 972-0433",
+                "external_id": "https://i.imgur.com/BiRmLAT.png",
+                "image_link": "https://i.imgur.com/BiRmLAT.png",
+                "description": "Dream View Motel, Pyrite Ave, Paleto Bay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 115.3515625,-42.03125 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "4243292563",
+                "name": "(424) 329-2563",
+                "external_id": "https://i.imgur.com/wGc6QUL.png",
+                "image_link": "https://i.imgur.com/wGc6QUL.png",
+                "description": "Dream View Motel, Pyrite Ave, Paleto Bay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 115.3515625,-42.03125 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "4242906200",
+                "name": "(424) 290-6200",
+                "external_id": "https://i.imgur.com/9t33OPq.png",
+                "image_link": "https://i.imgur.com/9t33OPq.png",
+                "description": "Dream View Motel, Pyrite Ave, Paleto Bay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 115.3515625,-42.03125 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3107540642",
+                "name": "(310) 754-0642",
+                "external_id": "https://i.imgur.com/f59vq70.png",
+                "image_link": "https://i.imgur.com/f59vq70.png",
+                "description": "Dream View Motel, Pyrite Ave, Paleto Bay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 115.3515625,-42.03125 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3101178161",
+                "name": "(310) 117-8161",
+                "external_id": "https://i.imgur.com/t2GY972.png",
+                "image_link": "https://i.imgur.com/t2GY972.png",
+                "description": "Dream View Motel, Pyrite Ave, Paleto Bay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 115.3515625,-42.03125 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "(424) 769-4506",
+                "name": "4247694506",
+                "external_id": "https://i.imgur.com/cu5wPCx.png",
+                "image_link": "https://i.imgur.com/cu5wPCx.png",
+                "description": "Dream View Motel, Pyrite Ave, Paleto Bay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 115.3515625,-42.03125 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "4242354449",
+                "name": "(424) 235-4449",
+                "external_id": "https://i.imgur.com/SqV4RnH.png",
+                "image_link": "https://i.imgur.com/SqV4RnH.png",
+                "description": "Dream View Motel, Pyrite Ave, Paleto Bay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 115.3515625,-42.03125 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "4241528884",
+                "name": "(424) 152-8884",
+                "external_id": "https://i.imgur.com/dquIViw.png",
+                "image_link": "https://i.imgur.com/dquIViw.png",
+                "description": "Dream View Motel, Pyrite Ave, Paleto Bay"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 115.3515625,-42.03125 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "id": "3101090931",
                 "name": "(310) 109-0931",
                 "external_id": "https://i.imgur.com/geEIshq.jpeg",
@@ -1007,6 +1273,104 @@ var phones = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [ 85.71875,-183.53125 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3105474630",
+                "name": "(310) 547-4630",
+                "external_id": "https://i.imgur.com/yvnwqsq.png",
+                "image_link": "https://i.imgur.com/yvnwqsq.png",
+                "description": "Fleeca Bank Offices, Blvd. Del Perro, Del Perro"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 89.5078125,-182.765625 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "4244400013",
+                "name": "(424) 440-0013",
+                "external_id": "https://i.imgur.com/1WEvOeu.png",
+                "image_link": "https://i.imgur.com/1WEvOeu.png",
+                "description": "Fleeca Bank Offices, Blvd. Del Perro, Del Perro"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 89.5078125,-182.765625 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "4243098538",
+                "name": "(424) 309-8538",
+                "external_id": "https://i.imgur.com/9lHzWQi.png",
+                "image_link": "https://i.imgur.com/9lHzWQi.png",
+                "description": "Fleeca Bank Offices, Blvd. Del Perro, Del Perro"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 89.5078125,-182.765625 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "4245166241",
+                "name": "(424) 516-6241",
+                "external_id": "https://i.imgur.com/i5sr3mG.png",
+                "image_link": "https://i.imgur.com/i5sr3mG.png",
+                "description": "Fleeca Bank Offices, Blvd. Del Perro, Del Perro"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 89.5078125,-182.765625 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3104190347",
+                "name": "(310) 419-0347",
+                "external_id": "https://i.imgur.com/50KIEZE.png",
+                "image_link": "https://i.imgur.com/50KIEZE.png",
+                "description": "Fleeca Bank Offices, Blvd. Del Perro, Del Perro"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 89.5078125,-182.765625 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "4242201933",
+                "name": "(424) 220-1933",
+                "external_id": "https://i.imgur.com/IiZ3Z4V.png",
+                "image_link": "https://i.imgur.com/IiZ3Z4V.png",
+                "description": "Fleeca Bank Front Desk, Blvd. Del Perro, Del Perro"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 88.98046875,-182.84375 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "4244016486",
+                "name": "(424) 401-6486",
+                "external_id": "https://i.imgur.com/IiZ3Z4V.png",
+                "image_link": "https://i.imgur.com/IiZ3Z4V.png",
+                "description": "Fleeca Bank Front Desk, Blvd. Del Perro, Del Perro"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 88.98046875,-182.84375 ]
             }
         },
         {
@@ -5532,6 +5896,34 @@ var phones = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [ 105.125,-167.59375 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "4246274255",
+                "name": "(424) 627-4255",
+                "external_id": "https://imgur.com/S4anOAb",
+                "image_link": "https://imgur.com/S4anOAb",
+                "description": "Vinewood Cemetery, West Vinewood"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 82.65625,-178.0625 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3108014324",
+                "name": "(310) 801-4324",
+                "external_id": "https://i.imgur.com/S4anOAb.png",
+                "image_link": "https://i.imgur.com/S4anOAb.png",
+                "description": "Vinewood Cemetery, West Vinewood"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 82.65625,-178.0625 ]
             }
         },
         {

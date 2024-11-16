@@ -9,6 +9,7 @@ function addRV(map) {
 Papa.parse(rvSheetUrl , {
     download: true,
     header: true,
+    worker: false,
     complete: function(results) {
         for( var i = 0; i < results.data.length; i++ )
         {

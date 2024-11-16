@@ -20,33 +20,33 @@ Papa.parse(rvSheetUrl , {
     download: true,
     header: true,
     complete: function(results) {
-        for( var i = 0; i < results.data.length && i < 10; i++ )
-        {
-            var lat = parseFloat(results.data[i].Latitude);
-            var lon = parseFloat(results.data[i].Longitude);
-            var stateId = parseInt(results.data[i]["State ID"]);
-            var owner = results.data[i].Owner;
-            var plate = results.data[i].Plate;
-            var picture = results.data[i].Picture;
-
-            rv.features[0].features[ i ] = {
-                    "type": "Feature",
-                    "properties": {
-                        "id": lat  + " " +  lon  + " " +  owner + " " + "(ID: " + stateId + ") - " + plate,
-                        "name": owner,
-                        "external_id": picture,
-                        "image_link": picture,
-                        "description": plate
-                    },
-                    "geometry": {
-                        "type": "Point",
-                        "coordinates": [
-                            lat,
-                            lon
-                        ]
-                    }
-                };
-        }
+    //    for( var i = 0; i < results.data.length && i < 10; i++ )
+    //    {
+    //        var lat = parseFloat(results.data[i].Latitude);
+    //        var lon = parseFloat(results.data[i].Longitude);
+    //        var stateId = parseInt(results.data[i]["State ID"]);
+    //        var owner = results.data[i].Owner;
+    //        var plate = results.data[i].Plate;
+    //        var picture = results.data[i].Picture;
+	//
+    //        rv.features[0].features[ i ] = {
+    //                "type": "Feature",
+    //                "properties": {
+    //                    "id": lat  + " " +  lon  + " " +  owner + " " + "(ID: " + stateId + ") - " + plate,
+    //                    "name": owner,
+    //                    "external_id": picture,
+    //                    "image_link": picture,
+    //                    "description": plate
+    //                },
+    //                "geometry": {
+    //                    "type": "Point",
+    //                    "coordinates": [
+    //                        lat,
+    //                        lon
+    //                    ]
+    //                }
+    //            };
+    //    }
         dataSynced();
     }
 });

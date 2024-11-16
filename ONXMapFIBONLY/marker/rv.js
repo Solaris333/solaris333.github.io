@@ -15,7 +15,7 @@ var rv = {
 };
 
 // Fetch the CSV file and add markers to the map
-Papa.parse(sheetUrl, {
+Papa.parse(rvSheetUrl , {
     download: true,
     header: true,
     complete: function(results) {

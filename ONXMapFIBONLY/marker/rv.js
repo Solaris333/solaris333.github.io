@@ -26,6 +26,7 @@ function fetchRV()
   header: true,
   complete: function(results)
   {
+   const data = results.data;
    data.forEach(row =>
     {
      var latitude = parseFloat(row.Latitude);

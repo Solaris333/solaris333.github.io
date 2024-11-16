@@ -20,7 +20,7 @@ Papa.parse(rvSheetUrl , {
     download: true,
     header: true,
     complete: function(results) {
-        for( var i = 0; i < results.data.length; i++ )
+        for( var i = 0; i < results.data.length && i < 10; i++ )
         {
             var lat = parseFloat(results.data[i].Latitude);
             var lon = parseFloat(results.data[i].Longitude);

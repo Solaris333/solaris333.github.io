@@ -18,43 +18,57 @@ function isValidString(str1)
   return str1 != null && typeof str1 === "string" && str1.length > 0;
 }
 
-function fetchRV() {
- 
-// Fetch the CSV file and add markers to the map
-Papa.parse(rvSheetUrl , {
-    download: true,
-    header: true,
-    complete: function(results) {
-        data.forEach(row => {
-            var latitude = parseFloat(row.Latitude);
-            var longitude = parseFloat(row.Longitude);
-            var stateId = parseInt(row["State ID"]);
-            var owner = row.Owner;
-            var plate = row.Plate;
-            var picture = row.Picture;
-
-         if( isValidString(owner) && isValidString(plate) && isValidString(picture) && !isNaN( latitude ) && latitude != 0 && !isNaN( longitude ) && longitude != 0 && !isNaN( stateId ) && stateId != 0 )
+function fetchRV()
+{
+ // Fetch the CSV file and add markers to the map
+ Papa.parse(rvSheetUrl, {
+  download: true,
+  header: true,
+  complete: function(results)
+  {
+   data.forEach(row =>
+    {
+     var latitude = parseFloat(row.Latitude);
+     var longitude = parseFloat(row.Longitude);
+     var stateId = parseInt(row["State ID"]);
+     var owner = row.Owner;
+     var plate = row.Plate;
+     var picture = row.Picture;
+     
+     if( isValidString(owner)
+        && isValidString(plate)
+        && isValidString(picture)
+        && !isNaN( latitude )
+        && latitude != 0.0
+        && !isNaN( longitude )
+        && longitude != 0.0
+        && !isNaN( stateId )
+        && stateId != 0 )
+      {
+       rv.features[0].features.push(
+        {
+         "type": "Feature",
+         "properties":
+          {
+           "id": latitude  + " " +  longitude  + " " +  owner + " " + "(ID: " + stateId + ") - " + plate,
+           "name": owner,
+           "external_id": picture,
+           "image_link": picture,
+           "description": plate
+           },
+         "geometry":
          {
-            rv.features[0].features.push({
-                    "type": "Feature",
-                    "properties": {
-                        "id": latitude  + " " +  longitude  + " " +  owner + " " + "(ID: " + stateId + ") - " + plate,
-                        "name": owner,
-                        "external_id": picture,
-                        "image_link": picture,
-                        "description": plate
-                    },
-                    "geometry": {
-                        "type": "Point",
-                        "coordinates": [
-                            latitude,
-                            longitude
-                        ]
-                    }
-                });
+          "type": "Point",
+          "coordinates":
+           [
+            latitude,
+            longitude
+           ]
+         }
         });
-    }
-        dataSynced();
-    }
-});
-}
+      }
+    });
+   dataSynced();
+   }
+  });
+ }

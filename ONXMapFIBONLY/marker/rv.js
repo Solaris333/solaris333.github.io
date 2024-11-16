@@ -13,7 +13,7 @@ var rv = {
     ]
 };
 
-function fetchRV(map) {
+function fetchRV() {
  
 // Fetch the CSV file and add markers to the map
 Papa.parse(rvSheetUrl , {

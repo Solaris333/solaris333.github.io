@@ -51,7 +51,7 @@ function fetchRV()
          "type": "Feature",
          "properties":
           {
-           "id": latitude  + " " +  longitude  + " " +  owner + " " + "(ID: " + stateId + ") - " + plate,
+           "id": owner + " " + "(ID: " + stateId + ") - " + plate,
            "name": owner,
            "external_id": picture,
            "image_link": picture,

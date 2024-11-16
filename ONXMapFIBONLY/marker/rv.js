@@ -33,7 +33,7 @@ Papa.parse(rvSheetUrl , {
             var plate = row.Plate;
             var picture = row.Picture;
 
-         if( isValidString(owner) && isValidString(plate) && isValidString(picture) && !isNaN( latitude ) && !isNaN( longitude ) && !isNaN( stateId ) )
+         if( isValidString(owner) && isValidString(plate) && isValidString(picture) && !isNaN( latitude ) && !isNaN( longitude ) && !isNaN( stateId ) && stateId > 0 )
          {
             rv.features[0].features.push({
                     "type": "Feature",

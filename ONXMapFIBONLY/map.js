@@ -84,6 +84,9 @@ addGarage(interactive_map);
 //RESTRICTED INFO
 addPhones(interactive_map);
 addMarabunta(interactive_map);
+fetchRV();
+function dataSynced()
+{
 addRV(interactive_map);
 
 // Step 4:
@@ -95,3 +98,5 @@ interactive_map.finalize();
 // You can now add additional layers by clicking the edit button in the lower left
 // While editing a layer you can export the geoJSON in the toolbar on the right when you're done
 // and add them here to step 3 to display them fixed for all users.
+
+}

@@ -5,20 +5,31 @@
 function addRV(map) {
 
     
+        async function loadAndParseCSV(url) {
+            // Fetch the CSV file
+            const response = await fetch(url);
+            const csvText = await response.text();
+
+            // Parse the CSV synchronously
+            const results = Papa.parse(csvText, {
+                header: true,
+                skipEmptyLines: true,
+            });
+
+            return results.data;
+        }
+    
 // Fetch the CSV file and add markers to the map
-Papa.parse(rvSheetUrl , {
-    download: true,
-    header: true,
-    worker: false,
-    complete: function(results) {
-        for( var i = 0; i < results.data.length; i++ )
+    const data = await loadAndParseCSV(rvSheetUrl);
+
+        for( var i = 0; i < data.length; i++ )
         {
-            var lat = parseFloat(results.data[i].Latitude);
-            var lon = parseFloat(results.data[i].Longitude);
-            var stateId = parseInt(results.data[i]["State ID"]);
-            var owner = results.data[i].Owner;
-            var plate = results.data[i].Plate;
-            var picture = results.data[i].Picture;
+            var lat = parseFloat(data[i].Latitude);
+            var lon = parseFloat(data[i].Longitude);
+            var stateId = parseInt(data[i]["State ID"]);
+            var owner = data[i].Owner;
+            var plate = data[i].Plate;
+            var picture = data[i].Picture;
 
             rv.features[0].features[ i ] = {
                     "type": "Feature",
@@ -38,9 +49,6 @@ Papa.parse(rvSheetUrl , {
                     }
                 };
         }
-        
-    }
-});
     
     // New layer with id `collectibles` from geoJSON `collectibles`
     let layer = map.addInteractiveLayer('rv', rv, {

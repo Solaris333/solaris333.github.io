@@ -20,6 +20,7 @@ function addRV(map) {
         }
     
 // Fetch the CSV file and add markers to the map
+    (async function() {
     const data = await loadAndParseCSV(rvSheetUrl);
 
         for( var i = 0; i < data.length; i++ )
@@ -49,6 +50,7 @@ function addRV(map) {
                     }
                 };
         }
+        })();
     
     // New layer with id `collectibles` from geoJSON `collectibles`
     let layer = map.addInteractiveLayer('rv', rv, {

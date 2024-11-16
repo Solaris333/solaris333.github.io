@@ -23,7 +23,7 @@ Papa.parse(rvSheetUrl , {
         {
             var lat = parseFloat(results.data[i].Latitude);
             var lon = parseFloat(results.data[i].Longitude);
-            var stateId = parseInt(results.data[i].StateID);
+            var stateId = parseInt(results.data[i]["State ID"]);
             var owner = results.data[i].Owner;
             var plate = results.data[i].Plate;
             var picture = results.data[i].Picture;

@@ -82,10 +82,31 @@ addCitylimits(interactive_map);
 addGarage(interactive_map);
 
 //RESTRICTED INFO
-async function fetchDataIndex(files) {
+addPhones(interactive_map);
+addMarabunta(interactive_map);
+
+var features = new Map();
+var featureData = {
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "features": [
+                {
+                }
+            ]
+        }
+    ]
+};
+
+function isValidString(str1)
+{
+  return str1 != null && typeof str1 === "string" && str1.length > 0;
+}
+
+async function fetchData(files) {
     const parseCSVAsync = (file) => {
         return new Promise((resolve, reject) => {
-            Papa.parse(file, {
+            Papa.parse(file.csv, {
                 download: true,
                 header: true,
                 complete: function(results) {
@@ -101,33 +122,54 @@ async function fetchDataIndex(files) {
 
     try {
         const results = await Promise.all(files.map(parseCSVAsync));
-        console.log("All files parsed successfully:", results);
+        // Step 4:
+        // Finalize the map after adding all layers.
+        interactive_map.finalize();
+        
+        // Step 5:
+        // Open `index.html` to view the map.
+        // You can now add additional layers by clicking the edit button in the lower left
+        // While editing a layer you can export the geoJSON in the toolbar on the right when you're done
+        // and add them here to step 3 to display them fixed for all users.
     } catch (error) {
         console.error("Error parsing files:", error);
     }
 }
+
+Papa.parse("https://docs.google.com/spreadsheets/d/e/2PACX-1vRuwF91bofFvKTAtrfEuzELqzJOQuQMLs1sIJK_ClZ7lXR5vdYOlrK-NCKvK64dtyynYmgeqs7hzWR7/pub?output=csv", {
+    download: true,
+    header: true,
+    complete: function(results) {
+        fetchData( results.data ); 
+        console.log("Parsed file:", results);
+        resolve(results);
+    },
+    error: function(error) {
+        reject(error);
+    }
+});
+
+
         console.log("start:");
-fetchDataIndex(["https://docs.google.com/spreadsheets/d/1zil5Dvvok5j8Z7BGpaDqt0BykUgoisaUhwU5lS5nJkc/pub?output=csv&gid=1633412963#gid=1633412963"]);
+//fetchData(["https://docs.google.com/spreadsheets/d/1zil5Dvvok5j8Z7BGpaDqt0BykUgoisaUhwU5lS5nJkc/pub?output=csv&gid=1633412963#gid=1633412963"]);
 
         console.log("end");
 
-        console.log("start2:");
-addPhones(interactive_map);
-addMarabunta(interactive_map);
-fetchRV();
-function dataSynced()
-{
-addRV(interactive_map);
+//        console.log("start2:");
+//fetchRV();
+//function dataSynced()
+//{
+//addRV(interactive_map);
+//
+//// Step 4:
+//// Finalize the map after adding all layers.
+//interactive_map.finalize();
 
-// Step 4:
-// Finalize the map after adding all layers.
-interactive_map.finalize();
+//// Step 5:
+//// Open `index.html` to view the map.
+//// You can now add additional layers by clicking the edit button in the lower left
+//// While editing a layer you can export the geoJSON in the toolbar on the right when you're done
+//// and add them here to step 3 to display them fixed for all users.
 
-// Step 5:
-// Open `index.html` to view the map.
-// You can now add additional layers by clicking the edit button in the lower left
-// While editing a layer you can export the geoJSON in the toolbar on the right when you're done
-// and add them here to step 3 to display them fixed for all users.
-
-}
-        console.log("end2");
+//}
+//        console.log("end2");

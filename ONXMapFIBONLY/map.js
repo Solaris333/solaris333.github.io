@@ -142,10 +142,9 @@ Papa.parse("https://docs.google.com/spreadsheets/d/e/2PACX-1vRuwF91bofFvKTAtrfEu
     complete: function(results) {
         fetchData( results.data ); 
         console.log("Parsed file:", results);
-        resolve(results);
     },
     error: function(error) {
-        reject(error);
+        console.error("Error parsing files:", error);
     }
 });
 

@@ -131,6 +131,7 @@ async function fetchData(files) {
         && latitude != 0.0
         && !isNaN( longitude )
         && longitude != 0.0
+       )
       {
        features[file.feature_id].features[0].features.push(
         {

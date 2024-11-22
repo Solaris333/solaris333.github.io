@@ -86,6 +86,7 @@ async function fetchDataIndex(files) {
     const parseCSVAsync = (file) => {
         return new Promise((resolve, reject) => {
             Papa.parse(file, {
+                download: true,
                 header: true,
                 complete: function(results) {
                     console.log("Parsed file:", results);

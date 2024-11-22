@@ -111,6 +111,7 @@ async function fetchData(files) {
                 header: true,
                 complete: function(results) {
                     const data = results.data;
+                    features[file.feature_id] = featureData;
    data.forEach(row =>
     {
      var latitude = parseFloat(row[file.latitude]);
@@ -131,7 +132,7 @@ async function fetchData(files) {
         && !isNaN( longitude )
         && longitude != 0.0
       {
-       rv.features[0].features.push(
+       features[file.feature_id].features[0].features.push(
         {
          "type": "Feature",
          "properties":

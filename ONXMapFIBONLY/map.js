@@ -82,6 +82,34 @@ addCitylimits(interactive_map);
 addGarage(interactive_map);
 
 //RESTRICTED INFO
+async function fetchDataIndex(files) {
+    const parseCSVAsync = (file) => {
+        return new Promise((resolve, reject) => {
+            Papa.parse(file, {
+                header: true,
+                complete: function(results) {
+                    console.log("Parsed file:", results);
+                    resolve(results);
+                },
+                error: function(error) {
+                    reject(error);
+                }
+            });
+        });
+    };
+
+    try {
+        const results = await Promise.all(files.map(parseCSVAsync));
+        console.log("All files parsed successfully:", results);
+    } catch (error) {
+        console.error("Error parsing files:", error);
+    }
+}
+        console.log("start:");
+await parseAllFiles("https://docs.google.com/spreadsheets/d/e/2PACX-1vSlkjOlPnUJsSLfgcAbgNT7mz8XDeINhKskqwCWv2mt3NkqUr8UIYYE9y0JY3WELYDgz6YfUPqx03ws/pubhtml");
+
+        console.log("end");
+
 addPhones(interactive_map);
 addMarabunta(interactive_map);
 fetchRV();

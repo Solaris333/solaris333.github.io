@@ -110,6 +110,7 @@ fetchDataIndex(["https://docs.google.com/spreadsheets/d/e/2PACX-1vSlkjOlPnUJsSLf
 
         console.log("end");
 
+        console.log("start2:");
 addPhones(interactive_map);
 addMarabunta(interactive_map);
 fetchRV();
@@ -128,3 +129,4 @@ interactive_map.finalize();
 // and add them here to step 3 to display them fixed for all users.
 
 }
+        console.log("end2");

@@ -106,7 +106,7 @@ async function fetchDataIndex(files) {
     }
 }
         console.log("start:");
-fetchDataIndex("https://docs.google.com/spreadsheets/d/e/2PACX-1vSlkjOlPnUJsSLfgcAbgNT7mz8XDeINhKskqwCWv2mt3NkqUr8UIYYE9y0JY3WELYDgz6YfUPqx03ws/pubhtml");
+fetchDataIndex(["https://docs.google.com/spreadsheets/d/e/2PACX-1vSlkjOlPnUJsSLfgcAbgNT7mz8XDeINhKskqwCWv2mt3NkqUr8UIYYE9y0JY3WELYDgz6YfUPqx03ws/pubhtml"]);
 
         console.log("end");
 

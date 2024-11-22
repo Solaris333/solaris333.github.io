@@ -155,6 +155,7 @@ async function fetchData(files) {
         });
       }
     });
+                    addRV(interactive_map, file.feature_id, file.feature_name, file.feature_icon, file.feature_data);
                     console.log("Parsed file:", results);
                     resolve(results);
                 },

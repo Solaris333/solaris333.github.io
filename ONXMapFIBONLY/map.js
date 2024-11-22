@@ -110,6 +110,50 @@ async function fetchData(files) {
                 download: true,
                 header: true,
                 complete: function(results) {
+                    const data = results.data;
+   data.forEach(row =>
+    {
+     var latitude = parseFloat(row[file.latitude]);
+     var longitude = parseFloat(row[file.longitude]);
+     var id = row[file.id];
+     var name = row[file.name];
+     var external_id = row[file.external_id];
+     var image_link = row[file.image_link];
+     var description = row[file.description];
+     
+     if( isValidString(id)
+        && isValidString(name)
+        && isValidString(external_id)
+        && isValidString(image_link)
+        && isValidString(description)
+        && !isNaN( latitude )
+        && latitude != 0.0
+        && !isNaN( longitude )
+        && longitude != 0.0
+      {
+       rv.features[0].features.push(
+        {
+         "type": "Feature",
+         "properties":
+          {
+           "id": id,
+           "name": name,
+           "external_id": external_id,
+           "image_link": image_link,
+           "description": description
+           },
+         "geometry":
+         {
+          "type": "Point",
+          "coordinates":
+           [
+            latitude,
+            longitude
+           ]
+         }
+        });
+      }
+    });
                     console.log("Parsed file:", results);
                     resolve(results);
                 },

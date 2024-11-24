@@ -85,33 +85,27 @@ addGarage(interactive_map);
 addPhones(interactive_map);
 addMarabunta(interactive_map);
 
-var features = new Map();
-var featureData = {
-    "type": "FeatureCollection",
-    "features": [
-        {
-            "features": [
-                {
-                }
-            ]
-        }
-    ]
-};
-
-function isValidString(str1)
-{
-  return str1 != null && typeof str1 === "string" && str1.length > 0;
-}
-
-async function fetchData(files) {
+async function fetchFeatureData(files) {
     const parseCSVAsync = (file) => {
         return new Promise((resolve, reject) => {
+     if( isValidString(file.csv)
+        && isValidString(file.feature_id)
+        && isValidString(file.id)
+        && isValidString(file.name)
+        && isValidString(file.external_id)
+        && isValidString(file.image_link)
+        && isValidString(file.description)
+        && isValidString(file.latitude)
+        && isValidString(file.longitude)
+        && isValidString(file.feature_icon)
+       )
+      {
             Papa.parse(file.csv, {
                 download: true,
                 header: true,
                 complete: function(results) {
                     const data = results.data;
-                    features[file.feature_id] = featureData;
+                    features[file.feature_id] = featureInitData;
    data.forEach(row =>
     {
      var latitude = parseFloat(row[file.latitude]);
@@ -156,7 +150,7 @@ async function fetchData(files) {
         });
       }
     });
-                    addRV(interactive_map, file.feature_id, file.feature_name, file.feature_icon, features[file.feature_id]);
+                    addFeatures(interactive_map, file.feature_id, file.feature_name, file.feature_icon, features[file.feature_id]);
                     console.log("Parsed file:", results);
                     resolve(results);
                 },
@@ -164,6 +158,7 @@ async function fetchData(files) {
                     reject(error);
                 }
             });
+          }
         });
     };
 
@@ -183,39 +178,15 @@ async function fetchData(files) {
     }
 }
 
+// Parse the feature index file
 Papa.parse("https://docs.google.com/spreadsheets/d/e/2PACX-1vRuwF91bofFvKTAtrfEuzELqzJOQuQMLs1sIJK_ClZ7lXR5vdYOlrK-NCKvK64dtyynYmgeqs7hzWR7/pub?output=csv", {
     download: true,
     header: true,
     complete: function(results) {
-        fetchData( results.data ); 
+        fetchFeatureData( results.data ); 
         console.log("Parsed file:", results);
     },
     error: function(error) {
         console.error("Error parsing files:", error);
     }
 });
-
-
-        console.log("start:");
-//fetchData(["https://docs.google.com/spreadsheets/d/1zil5Dvvok5j8Z7BGpaDqt0BykUgoisaUhwU5lS5nJkc/pub?output=csv&gid=1633412963#gid=1633412963"]);
-
-        console.log("end");
-
-//        console.log("start2:");
-//fetchRV();
-//function dataSynced()
-//{
-//addRV(interactive_map);
-//
-//// Step 4:
-//// Finalize the map after adding all layers.
-//interactive_map.finalize();
-
-//// Step 5:
-//// Open `index.html` to view the map.
-//// You can now add additional layers by clicking the edit button in the lower left
-//// While editing a layer you can export the geoJSON in the toolbar on the right when you're done
-//// and add them here to step 3 to display them fixed for all users.
-
-//}
-//        console.log("end2");

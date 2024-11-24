@@ -152,7 +152,7 @@ async function fetchFeatureData(files) {
       }
     });
                     addFeatures(interactive_map, file.feature_id, file.feature_name, file.feature_icon, features[file.feature_id]);
-                    console.log("Parsed file:", results);
+                    //console.log("Parsed file:", results);
                     resolve(results);
                 },
                 error: function(error) {
@@ -162,7 +162,7 @@ async function fetchFeatureData(files) {
           }
         else
          {
-                reject("Invalid data index");
+                resolve();
          }
         });
     };
@@ -189,7 +189,7 @@ Papa.parse("https://docs.google.com/spreadsheets/d/e/2PACX-1vRuwF91bofFvKTAtrfEu
     header: true,
     complete: function(results) {
         fetchFeatureData( results.data ); 
-        console.log("Parsed file:", results);
+        //console.log("Parsed file:", results);
     },
     error: function(error) {
         console.error("Error parsing files:", error);

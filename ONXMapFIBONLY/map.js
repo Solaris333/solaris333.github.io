@@ -90,6 +90,7 @@ async function fetchFeatureData(files) {
         return new Promise((resolve, reject) => {
      if( isValidString(file.csv)
         && isValidString(file.feature_id)
+        && isValidString(file.feature_name)
         && isValidString(file.id)
         && isValidString(file.name)
         && isValidString(file.external_id)

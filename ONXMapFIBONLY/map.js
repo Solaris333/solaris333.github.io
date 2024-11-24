@@ -159,6 +159,10 @@ async function fetchFeatureData(files) {
                 }
             });
           }
+        else
+         {
+                reject("Invalid data index");
+         }
         });
     };
 

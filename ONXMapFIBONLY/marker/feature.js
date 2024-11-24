@@ -1,6 +1,6 @@
 var features = new Map();
 
-var featureData = {
+var featureInitData = {
     "type": "FeatureCollection",
     "features": [
         {

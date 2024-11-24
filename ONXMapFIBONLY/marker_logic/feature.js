@@ -2,7 +2,7 @@
 // Shows polygons and marker with overlapping IDs
 // The geoJSON contains 5 features which combine logically by 3 IDs
 
-function addRV(map, feature_id, feature_name, feature_icon, feature_data) {
+function addFeatures(map, feature_id, feature_name, feature_icon, feature_data) {
 
     // New layer with id `collectibles` from geoJSON `collectibles`
     let layer = map.addInteractiveLayer(feature_id, feature_data, {

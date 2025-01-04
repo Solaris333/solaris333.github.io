@@ -2,13 +2,13 @@
 // Shows polygons and marker with overlapping IDs
 // The geoJSON contains 5 features which combine logically by 3 IDs
 
-function addRV(map) {
+function addFeatures(map, feature_id, feature_name, feature_icon, feature_data) {
 
     // New layer with id `collectibles` from geoJSON `collectibles`
-    let layer = map.addInteractiveLayer('rv', rv, {
+    let layer = map.addInteractiveLayer(feature_id, feature_data, {
 
         // The display name for this layer
-        name: 'RV',
+        name: feature_name,
 
         // This layer should have a tab in the sidebar with a list for each feature ID
         create_checkbox: true,
@@ -98,7 +98,7 @@ function addRV(map) {
         // * We're omitting the `pointToLayer` so `images/icons/${this.id}.png` will be used for marker
         // * We're omitting the `feature_group` so markers will cluster with other layers
 
-        sidebar_icon_html: '<i class="fas fa-caravan"></i>',
+        sidebar_icon_html: feature_icon,
         
         pointToLayer: function (feature, latlng) {
 

@@ -83,6 +83,7 @@ addGarage(interactive_map);
 
 //RESTRICTED INFO
 addPhones(interactive_map);
+addATMs(interactive_map);
 addMarabunta(interactive_map);
 
 async function fetchFeatureData(files) {

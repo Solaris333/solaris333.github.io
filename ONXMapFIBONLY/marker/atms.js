@@ -617,5 +617,159 @@ var atms = {
                 "coordinates": [ 116.609375,-195.26953125 ]
             }
         },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "Vanilla Unicorn",
+                "name": "Vanilla Unicorn",
+                "external_id": "https://i.imgur.com/boO62vo.jpeg",
+                "image_link": "https://i.imgur.com/boO62vo.jpeg",
+                "description": "Vanilla Unicorn, Strawberry Ave., Strawberry"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 120.1328125,-199.2734375 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "24/7 Supermarket",
+                "name": "24/7 Supermarket",
+                "external_id": "https://i.imgur.com/hjyTAYT.jpeg",
+                "image_link": "https://i.imgur.com/hjyTAYT.jpeg",
+                "description": "24/7 Supermarket, Innocence Blvd., Strawberry"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 118.015625,-200.359375 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "Strawberry Xero Gas #1",
+                "name": "Strawberry Xero Gas #1",
+                "external_id": "https://i.imgur.com/ha6ez8b.jpeg",
+                "image_link": "https://i.imgur.com/ha6ez8b.jpeg",
+                "description": "Strawberry Xero Gas #1, Strawberry Ave., Strawberry"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 118.015625,-200.359375 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "Strawberry Xero Gas #2",
+                "name": "Strawberry Xero Gas #2",
+                "external_id": "https://i.imgur.com/Ls5wlff.jpeg",
+                "image_link": "https://i.imgur.com/Ls5wlff.jpeg",
+                "description": "Strawberry Xero Gas #2, Strawberry Ave., Strawberry"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 118.015625,-200.359375 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "Ron Oil",
+                "name": "Ron Oil",
+                "external_id": "https://i.imgur.com/KOMHcOD.jpeg",
+                "image_link": "https://i.imgur.com/KOMHcOD.jpeg",
+                "description": "Ron Oil, Palamino Fwy., Tataviam Mountains"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 170.140625,-165.2734375 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "24/7 Supermarket",
+                "name": "24/7 Supermarket",
+                "external_id": "https://i.imgur.com/cQW3HVZ.jpeg",
+                "image_link": "https://i.imgur.com/cQW3HVZ.jpeg",
+                "description": "24/7 Supermarket, Palamino Fwy., Tataviam Mountains"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 170.03125,-164.546875 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "Purple Diner-Saur",
+                "name": "Purple Diner-Saur",
+                "external_id": "https://i.imgur.com/bbUNV2c.jpeg",
+                "image_link": "https://i.imgur.com/bbUNV2c.jpeg",
+                "description": "Purple Diner-Saur, Senora Way, Davis Quartz"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 170.1171875,-119.2734375 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "Harmony Fleeca Bank",
+                "name": "Harmony Fleeca Bank",
+                "external_id": "https://i.imgur.com/o4Whlf6.jpeg",
+                "image_link": "https://i.imgur.com/o4Whlf6.jpeg",
+                "description": "Harmony Fleeca Bank, Rte. 68, Harmony"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 141.484375,-116.94140625 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "Discount Store",
+                "name": "Discount Store",
+                "external_id": "https://i.imgur.com/12wUhfx.jpeg",
+                "image_link": "https://i.imgur.com/12wUhfx.jpeg",
+                "description": "Discount Store, Rte. 68, Great Chaparral"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 94.53125,-117.0546875 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "24/7 Supermarket",
+                "name": "24/7 Supermarket",
+                "external_id": "https://i.imgur.com/edJ5Fp2.jpeg",
+                "image_link": "https://i.imgur.com/edJ5Fp2.jpeg",
+                "description": "24/7 Supermarket, Rte. 68, Harmony"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 141.484375,-116.94140625 ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "With A Paddle",
+                "name": "With A Paddle",
+                "external_id": "https://i.imgur.com/SfXMKEc.jpeg",
+                "image_link": "https://i.imgur.com/SfXMKEc.jpeg",
+                "description": "With A Paddle, Zancudo Rd., Tongva Valley"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [ 86.42578125,-141.58203125 ]
+            }
+        },
     ]
 };
